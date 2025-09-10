@@ -1,0 +1,1282 @@
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+CHAPTER
+
+DDC-DATEX
+
+1-1
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+CHAPTER 1
+
+BACKGROUND AND BASIC INFORMATION
+
+1.0
+
+INTRODUCTION
+Chapter-1 of the Detailed Area Development Plan describes the background, purpose and the
+format of the report. It also describes the study area and the project area and the provisions of the
+higher level plan.
+
+1.1
+
+BACKGROUND
+Khulna Development Authority (KDA) prepared for the first time, a Master Plan in 1961 for an area
+of 70 sq.mile (181 sq.km) for a duration of 20 years. After expiry of the first Master Plan in 1981, a
+new Master Plan project was launched in 1997. The plan titled, ‘Structure Plan, Master Plan,
+and Detailed Area Plan for Khulna City’, was a package of three urban development plans
+comprising Structure Plan, Master Plan and Detailed Area Plans. However, while the first two
+plans were prepared in totality, the third was not. Only three Detailed Area Plans were prepared as
+samples as per directives of the project ToR. The idea was that, KDA, on a later stage, would
+undertake another planning project and formulate the Detailed Area Plan for its potential urban
+areas following these samples. The current project is the follow up of 2001 Master Plan aimed at
+preparing Detailed Area Plan. The current project has been undertaken out of the urge to ensure
+planned development of the future city and promote congenial urban living and expedite economic
+uplift in a more efficient way through promotion of infrastructure and services.
+Inception Report was the first report of this project submitted by the consultant. It was approved by
+the Technical Management Committee (TMC) in May, 2011. Inception report contained, among
+other things, preliminary information about the study area, study methodology and future activities
+of the project including a work schedule. The next report was the Study Area Report which was
+approved by the TMC in May 2012. This report was formulated to determine the actual ‘project
+area’ for which DADP will be prepared. Third report was the Survey Report that contained all the
+findings of surveys and studies conducted. It was a comprehensive report that also analyzed
+various issues of the study area considering the existing conditions ascertained through different
+kinds of surveys and studies including mapping of the Study Area. The next report of the project
+was Interim Report. The main focus of this report was to make an interim review of the project
+including a preliminary Detailed Area Plan for the project area. The current report is the Final
+Planning Report. It is the 5th report of the project (according to the ToR, it is Report IV) describing
+the draft Detailed Area Plan proposals.
+
+1.2
+
+PURPOSE
+Purpose of the Detailed Area Development Plan is to prepare a local level infrastructure
+development plan including revision of the prevailing land use plan in order to enable organized
+growth of the future city imbued with basic urban services and livable environment.
+
+DDC-DATEX
+
+1-2
+
+Final Planning Report
+
+1.3
+
+Chapter 1: Background and Basic Information
+
+REPORT FORMAT
+The DADP explanatory report has been prepared following the ToR of the project. It is composed
+of six chapters including the introductory chapter.
+The introductory chapter gives the background of the project followed by the purpose of
+the project. The Chapter also contains delineation of the study area and the project area. The
+major provisions of higher level plans have also been explained in this chapter.
+Chapter two describes the existing development pattern of the study area followed by the
+socio-economic conditions. It makes an appraisal of the developments taken place in the study
+area since preparation of the Master Plan in 2001. The Chapter makes estimation of the future
+population and ascertains the critical problems faced by the study area. An assessment has been
+made in the chapter about the status of various infrastructures and services.
+The third chapter of the report is about the development plan proposals and future land
+use. The chapter makes a review of the higher level plans prepared by KDA in 2001. These higher
+level plans serve as the guiding principles or frameworks for the current plan. The chapter also
+formulates principles and standards to help prepare infrastructure development proposals. This is
+followed by development strategies. As per provisions of the ToR, the Chapter carries out a
+revision of the prevailing land use plan prepared under previous Master Plan. It also makes
+recommendations about development of physical and social infrastructure and prepares an
+integrated plan.
+In fourth chapter, the report makes recommendations about area development priority and
+phasing. It also contains public sector action programmes and recommendations about project
+implementation management, land use zoning and development control.
+Fifth chapter is about description of some projects and their cost estimations and
+comments on some legal issues.
+Chapter six describes the follow up actions about additional project plan preparation,
+updating and review of Detailed Area Development Plan, rules of plan deviation and governance
+and coordination.
+
+1.4
+
+AREA AND ZONING CONCEPT
+Four kinds of zones have been used in this plan for different purposes. This section of the chapter
+clarifies the zones used in the current project. This has been done to avoid confusions regarding
+various areas and zones provided in the plan1.4.1 Master Plan 2001 Area and Project area
+1.4.1.1
+
+Master Plan Area (Study Area)
+
+As per Terms of Reference (ToR) of the project, the consultant was awarded an area of 231.67
+sq.km (57,248 acres) as the study area to conduct all necessary surveys and studies. This is the
+same area of 2001 Master Plan (second tier). Please see Table-1.1 for details. After GIS
+operation, the actual total area was found 233.346 sq.km. (57,661.182 acre).
+
+DDC-DATEX
+
+1-3
+
+Final Planning Report
+
+1.4.1.2
+
+Chapter 1: Background and Basic Information
+
+Project Area
+
+According to the ToR, from the study area, the consultant, in collaboration with the client, shall
+determine the DADP area which will not be less than 30,000 acres and henceforth this area will be
+called the ‘project area’. Accordingly, after field visit and discussion with the client the consultant
+determined an area of 181.26 sq.km (44,789.48 acres) as the project area for preparation of
+DADP Map-1.1 and Map-1.2. present the details of project area including ward and mouza.
+Table-1.1: Study Area Coverage
+KCC / Thana
+KCC
+Khanjahan Ali Thana
+Dumuria Upazila (Part)
+Batiaghata Upazila (Part)
+The Rupsha Upazila
+Fakirhat Upazila (Part)
+Dighalia Upazila (Part)
+Fultala Upazila
+Abhaynagar Upazila (Part)
+Total
+
+Sq.km
+45.65
+22.48
+13.24
+31.02
+39.89
+4.09
+22.32
+25.63
+27.41
+231.67
+
+Study Area
+Acre
+11,280.37
+55,56.00
+3,271.23
+7,666.10
+9,841.20
+1,011.40
+5,515.90
+6,333.10
+6,772.70
+57,248.00
+
+Hectare
+5,141.15
+2,249.39
+1,324.30
+3,103.68
+3,984.29
+409.47
+2,233.16
+2,564.00
+2,741.98
+23,177.33
+
+Source: Terms of Reference (TOR)
+
+DDC-DATEX
+
+1-4
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+Map-1.1: Study Area within Structure Plan Boundary
+
+Source: Khulna Master Plan 2001, KDA
+
+DDC-DATEX
+
+1-5
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+Map-1.2: Mouza Index Map of Project Area
+
+DDC-DATEX
+
+1-6
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+1.4.2 Urbanized and Urbanizing Area
+Urbanized Area
+Urbanized area within the project area is divided into two different areas. Area under Khulna City
+Corporation (KCC) is the oldest and most densely populated part of the project area. It is also
+interchangeably called Khulna City. Currently, KCC has an area of 45.48 sq.km (11,239.82 acres)
+with its 31 wards.
+Noapara Paurashava is located at the northern part of the project area comprising 20.88 sq.km
+(5,137.28 acres) with 9 wards. However, except parts of some mouzas, almost entire Paurashava
+is within the project area. The area of Noapara Paurashava included within the project area stands
+at 18.23 sq.km or 4,504.73 acres.
+Urbanizing Area (Extended Area)
+This is the area beyond KCC area and Noapara Paurashava included within the project area. This
+area is basically rural and agricultural, mostly undeveloped area. Extended Area comprises
+[233.34 (Study area) - 45.48 (KCC) - 20 (Noapara)] = 167.85 sq.km. Extended Area is gradually
+urbanizing or likely to urbanize in near future.
+1.4.3 Detailed Area Development Planning (DADP) Zones
+To create exclusive planning zones and ease plan preparation, the consultant created 27 DADP
+Zones as planning zones. The population growth (depicts future growth potentiality) and the
+existing condition of physical growth (structural occupancy rate) have been considered as the
+basis for preparation of these zones. Please see Appendix-3.4 for details.
+1.4.4 Drainage Zone
+Based on topographical features, existing internal network of khals and river system, KCC
+Drainage Master Plan divided the entire KCC area into six drainage zones. The current project has
+adopted this drainage zones for making drainage development proposals. Details of these
+drainage zones have been presented in drainage section of Chapter-1. A drainage network map
+has also been provided as Map-3.11 in Chapter-3.
+1.5
+
+BASIC FEATURES
+
+1.5.1 Population Growth
+Khulna City Corporation (KCC) is the largest segment of the study area comprising about 63%
+of the total project area population. The population data of this segment gives clear indication of
+growth trend of the study area. In this area, the growth rate of population between 1991 and 2001
+was 1.51%. In 1991, the population of KCC was 6,63,338 that rose to 7,70,498 in 2001. During a
+period of 10 years, the KCC population increased by 16.15%. Table-1.2 also shows the growth of
+population between 2001 and 2011 in Noapara Paurashava area and in Extended Area of the
+project area. In Noapara, population increased by 15.67%, while in Extended Area the increase
+
+DDC-DATEX
+
+1-7
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+was the highest in terms of number of population (growth rate was 2.90%).
+Table-1.2: Population Increase in KCC Area, 1991-2001 and 2001-2011
+Growth Rate
+(%)
+
+Area
+
+1991- 200101 2011
+
+Khulna City
+1.51
+Corporation
+Noapara
+0.06
+Paurashava
+Extended
+2.31
+Area
+
+Population
+1991
+
+1.35 6,63,338
+
+%
+%increase 2001
+2011
+2011
+increase
+2001
+1991-2001 (Adjusted) (Adjusted) (Projected) 2001-2011
+(Adjusted)
+16.15
+
+8,29,595 6,88,881
+
+9,48,814
+
+-9.26
+
+72,595 73,006
+
+0.57
+
+77,248
+
+89,353
+
+94,490
+
+7.26
+
+1.25 3,02,585 3,80,240
+
+25.66
+
+4,11,980
+
+4,23,916
+
+4,66,551
+
+1.42
+
+2.04
+
+7,70,498
+
+Source: National Population Census 1991, 2001, 2011, District Community Series, Khulna, Jessore, BBS.
+
+Whatever the growth rate is, the observation from projected data indicates that the absolute
+population of the Khulna City has increased moderately during the last two census periods.
+During the post-independence years, Khulna City experienced exorbitantly high increase in
+population caused by socio-political turmoil during 1971 that led to massive rural-urban migration
+all over the country following liberation. According to Population Census Report 2001, KCC
+Population was 7,70,498 persons. As per instruction of BBS (www.bbs.gov.bd) in 2012 (after
+publication of 2011 Population Census Report) it was asked to increase the population by 7.67%
+that give a new population figure of 8,29,595 persons for 2001. In the same way, BBS declared
+KCC population for 2011 as 6,63,342. But later on instructed to raise it by adding 3.85% that gives
+a population of 6,88,881 persons for 2011 for KCC area. It is evident that population of KCC area
+has reduced compared to 2001. According to new estimation, population of KCC area is 9,48,814
+(adjusted) which is 10.59% less than 2001 population.
+When it is evident from preceding census reports that urban population of KCC area and
+of the country are consistently rising, such data creates serious confusion and casts doubt on the
+authenticity of the 2011 census data. Moreover, considering the impact of construction Padma
+Bridge at Mawa Point, rejuvenation of Mongla port, gas supply at Khulna from Bhola etc. on the
+development of the city, diminishing rate of population is not a feasible option for population
+projection of KCC area.
+The consultant has projected the population of 2011 based on the growth rate between 1991 and
+2001 (Table-1.2).
+
+DDC-DATEX
+
+1-8
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+1.5.2 Physical Characteristics
+a.
+
+Physiographic
+
+The physiography of Khulna region is broadly characterized by the Ganges-tidal floodplain. It has
+lower relief and crisscrossed by large number of tidal rivers and channels. It is nearly flat and the
+surface is poorly drained. Khulna City was developed on natural levee of Bhairab-Rupsha. The
+landscape of city and its environs is composed of natural levee, floodplain, old meander complex,
+bar, tidal marsh and back swamps. Natural levee is well developed along the Bhairab-Rupsha
+banks (mostly on the west bank) and is occupied mainly by the present built-up area of the city.
+Apart from the topographic conditions the city has the following natural peculiarities:
+
+b.
+
+•
+
+The City has a unique linear shape, extending from southeast to northwest along the
+Bhairab-Rupsha Rivers. Subsequently, railway line and Khulna-Jessore Road played a
+dominant role in shaping the city a linear one.
+
+•
+
+Khulna City experiences high impact of salinity in its surface and ground water. This
+poses a problem because of a saline natural environment around the city.
+
+•
+
+The city is almost free from natural disasters like flood, cyclone and earthquake. Both
+frequency and intensity of disasters are also low in Khulna.
+Topography: Height of the Land Surface and Land Level
+
+The field survey (2012) has identified 2.1 m SoB above MSL as the mean height of the land
+surface of Khulna City. The value of the highest level is 7.89 m SoB above MSL, while the lowest
+is -2.263 m SoB below MSL. Topographic survey by the consultant shows the height of the level
+varies from -4.19 m SoB to 3.79 m SoB above MSL, spreading about ½ km. to 4 km inside from
+the river bank. The general slope of the city’s land is from north to south along the bank of the
+river, while the lateral slope is away from the river bank. Next to levee is the flood plain extending
+about 4 km inside (western side) from the river. Flood plain is followed by back swamp and tidal
+marsh lands. The southwestern segment of the study area is broadly characterized by tidal flood
+plains having lower relief and crisscrossed by large number of rivers and canals. The land
+elevation decreases towards the west. Towards north, the study area the land level is higher.
+c.
+
+Geology
+
+The Study Area covers the natural levee, floodplain-estuarine plain, oxbow lake etc. of the
+Rupsha-Bhairab-Pasur Rivers on the east and flood plain, flood basin, swamp, abandoned
+channel etc. of the Mayur-Hatia Rivers on the west and is characterized by tidal and flood
+inundation with low relief. The area is completely underlain by alluvium composed of sand, silt and
+clay in varied proportion. On the basis of geomorphology, relief and drainage, sediment
+characteristics, vegetation cover, water logging and flooding, the study area has been divided into
+the following geomorphologic units of, channel, ox-bow lake, abandoned channel and point bar.
+d.
+
+Soil
+
+There is a sedimentary peat soil deposit in an area of about 0.13 million ha in Bangladesh that is
+also found in the low-lying areas of the Gopalganj-Khulna region. In general, organic materials
+occupy more than half of the upper 80 cm of the profile and sometimes in different layers within
+DDC-DATEX
+
+1-9
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+the same soil. The area remains wet in the dry season, and is mainly deeply flooded in the rainy
+season. Poor peat soils have a low bearing capacity when wet. They shrink and eventually are lost
+by oxidation when dry.
+e.
+
+Building Structure Use and Density of Structures
+
+Physical feature survey reveals, about 85.37% of the study area structures belong to residential
+use. Only about 3.92% buildings have been found under commercial use, while 0.83% structures
+are under industrial and manufacturing use. The survey identified 1.84% structures under mixed
+use and 0.92% structures providing services of different kinds.
+The average density of structures in KCC area is 71.65 per acre. The highest density has been
+found in Ward No.07, with about 86.45 structures per acre, and the lowest in Ward-8 with 21.13
+structures per acre.
+f.
+
+Existing Land Use
+
+In the study area, 35.76% land goes to agriculture Table-1.3. About one third land (34.38%) of the
+study area goes to residential use and about 10.49% to water body that include pond, canal,
+wetland, river and their tributaries.
+Only 4.92% of the study area land is under commercial and industrial use, Recreational facilities
+including recreational open space, covers only 0.26%.
+The overall picture of the study area shows, that the land use pattern is changing mainly in the city
+fringe areas. As the population and economic activity increases demand for new land also rises
+proportionately.
+Any new demand for urban use land presses on existing agricultural land. Thus, agricultural lands
+are gradually being converted into non-farm use. It is evident from the land use survey that only
+about half of the study area is under urban activities, if agriculture, water body and vacant lands
+are excluded.
+Table-1.3: Existing Land Use of the Study Area
+
+Land Use Category
+Agriculture
+Circulation Network
+Commercial
+Community Service
+Education and Research
+Government Services
+Manufacturing and Processing Activity
+Miscellaneous
+Mixed Use
+Non-Government Services
+Recreation Facilities
+Residential
+Restricted Area
+Service Activity
+Transport and Communication
+Urban Green Space
+Vacant Land
+DDC-DATEX
+
+Sq. Km
+83.45
+15.50
+1.72
+0.89
+3.10
+0.56
+9.76
+0.14
+2.19
+0.07
+0.61
+80.23
+4.00
+0.57
+0.36
+1.50
+4.23
+
+Area (Acre)
+20620.20
+3930.08
+424.90
+219.14
+766.89
+137.60
+2411.62
+34.37
+540.08
+17.84
+151.66
+19824.79
+988.36
+140.24
+89.00
+371.11
+1044.22
+
+Percentage
+35.76
+6.64
+0.74
+0.38
+1.33
+0.24
+4.18
+0.06
+0.94
+0.03
+0.26
+34.38
+1.71
+0.24
+0.15
+0.64
+1.81
+1-10
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+Waterbody
+Grand Total
+
+24.48
+233.35
+
+Source: Survey by the consultant, 2012.
+
+10.49
+100.00
+
+PROJECT AREA CLASSIFICATION: EXISTING AND NEW URBAN AREA
+To make planning more pragmatic and worth executing, the ToR asked to divide the entire project
+area into Existing Urban Area and New Urban Area based on the increase of population density
+in five years. The consultant, accordingly made division of the project area into Existing Urban
+Area and New Urban Area based on population density increase between 2001 and 2006. This is
+to enable follow the two separate principles and standards of planning and make the plans need
+based and pragmatic. According to ToR following criteria was followed to determine the existing
+and the new urban area.
+1.6.1
+
+Existing Urban Area
+
+According to ToR, existing, partially developed urban area will show an increase in density of
+average 30 ppa over five years (for instance from 100 ppa to 130 ppa or 50 ppa to 80 ppa).
+According to this definition, only 09 wards/Unions or Mouzas of the KCC could be identified as the
+“Existing Urban Area” as listed in Table-1.4. The existing urban area gives a total land area of
+8,285.14 acres.
+Population
+2013
+
+Total
+Population
+in Mouza
+
+Within
+Project
+Area
+
+Population
+Density
+(PPA, 2013)
+
+Population
+Density
+(PPA, 2018)
+
+24,656
+24,215
+69,628
+30,273
+45,837
+32,650
+29,853
+38,575
+
+24,656
+24,215
+69,628
+30,273
+45,837
+32,650
+29,853
+38,575
+
+29,156
+28,821
+90,341
+35,336
+59,743
+40,267
+35,669
+45,684
+
+29156
+28821
+90341
+35336
+59743
+40267
+35669
+45684
+
+196.94
+113.57
+887.05
+94.52
+119.98
+124.90
+164.26
+297.64
+
+125.20
+213.22
+78.49
+320.29
+382.04
+261.42
+181.74
+129.60
+
+148.04
+253.78
+101.84
+373.86
+497.94
+322.40
+217.15
+153.49
+
+22.85
+40.56
+23.35
+53.57
+115.90
+60.99
+35.41
+23.88
+
+Bagmara
+
+15,814
+
+15,814
+
+19,837
+
+19837
+
+185.39
+
+85.30
+
+107.00
+
+21.70
+
+Area (acre)
+
+Within
+Project
+Area
+
+Ward -05
+Ward -07
+Ward -09
+Ward -11
+Ward -20
+Ward -23
+Ward -26
+Ward -30
+
+Area
+
+Total
+Population
+in Mouza
+
+2018
+
+KCC Area
+
+Ward & Mouza
+Name
+
+Table-1.4: Existing Urban Area
+
+Extended
+Area
+
+1.6
+
+6049.08
+57661.18
+
+Change
+
+Source: Survey by the consultant, 2012.
+
+1.6.2
+
+New Urban Area
+
+All KCC Wards and mouzas other than identified wards/mouza in “Existing Urban Area”, are
+considered as ‘New Urban Area’ according to ToR. According to ToR new urban area will absorb
+50 ppa over first five years of development (starting from zero). But in Khulna City, where
+economic growth is extremely low, it is very unlikely that it will be possible to have 50 persons or
+near 50 ppa density of population in next five years.
+
+DDC-DATEX
+
+1-11
+
+Final Planning Report
+
+1.7
+
+Chapter 1: Background and Basic Information
+
+HIGHER LEVEL FRAMEWORK
+Higher level framework refers to the superior planning, policy or legal framework that serves as the
+guide to the current planning initiatives. Two Master Plans prepared for Khulna are the higher level
+planning frameworks for the current planning exercise. These are Khulna Master Plan 1961 and
+Khulna Master Plan 2001. Since Khulna Master Plan 1961 has expired long ago, it has very little
+implications to the current DADP. The current DADP is, actually, the continuation of the Khulna
+Master Plan 2001. In Khulna Master Plan 2001 three sample DADPs were prepared to guide
+subsequent formulation of DADP. It also set forth mid-level development proposals for core part of
+the city and the planning standards. The current DADP is prepared based on the framework set by
+the Khulna Master Plan 2001, following is the review of 1961 and 2001 Master Plans.
+1.7.1
+
+Khulna Master Plan 1961
+
+The first Khulna City Master Plan was prepared in 1961 for Khulna City and its environs for an
+area of 70 sq.mile (181 sq.km). The plan was marked by four basic sets of proposals:
+•
+•
+•
+•
+
+Land Use Zoning
+Development
+Basic Infrastructure Development and
+Administration and Implementation of the plan.
+
+The entire set of proposals was prepared in a macro framework emphasizing on the physical
+setting of the plan area. Stated in simplified form, the plan does not go for detailed analysis of the
+situation and background of the proposals. Most proposals were set in the form of outline instead
+of programs and projects. Following are the major features of 1961 Master Plan of Khulna City:
+The plan made a 20 year forecast of Master Plan area population and proposed various urban
+services and development projects. The future city area was demarcated on buildable land and the
+entire area was grouped into major land use zones divided by hierarchy of road networks.
+Sites for health and education facilities and market centers, waste disposal points, and drainage
+were demarcated. Legal and administrative measures were set forth for implementation of the plan
+provisions. This land use allocation of the 1961 Master Plan served as one of the major guides to
+Khulna Master Plan 2001 as many parts of the city and its infrastructure were developed based on
+this plan. However, since this plan expired in 1981, it has little significance to the current planning
+exercise.
+1.7.2
+
+Khulna Master Plan 2001
+
+The 2001 Khulna Master Plan titled ‘Structure Plan, Master Plan and Detailed Area Plan for
+Khulna City’ was launched in 1997 and was approved in 2001. The plan comprised of three
+hierarchical Plans-Structures Plan, Master Plan and Detailed Area Plans. Structure Plan was the
+apex plan that laid down development policy proposals for 20 years in outline form. Master Plan
+proposed land use and infrastructure for the main city and its environs for a period of 10 years.
+Three Detailed Area Plans were prepared as samples for subsequent preparation of Detailed Area
+Plans. Detailed Area Plans, prepared under the framework of Structure Plan and Master Plan, are
+local level plans that are more detail in format and aims to address local problems and issues. The
+2001 Master Plan serves as the higher level plan to guide the activities of the current plan.
+DDC-DATEX
+
+1-12
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+1.8 REVIEW OF DEVELOPMENT PROPOSALS OF UPPER LEVEL PLANS
+1.8.1
+
+Master Plan 2001 (2nd tier plan) Development Proposals
+
+Master Plan is the second tier of Khulna Master Plan 2001 where land use and physical
+development proposals including infrastructure were set. Duration of Master Plan was 10 years
+from 2001 that expired in 2011. This component of the plan package has not been officially
+extended further. The Master Plan report starts with anticipated growth assumptions followed by
+sector wise development proposals as stated below.
+1.8.2
+
+Transport Sector Development Proposals
+
+The Master Plan made the following major development proposals:
+1. The plan called for effective traffic management to ensure proper road transport function.
+2. The plan proposed to develop a multi-modal transport system in the city combining road,
+railway and water way.
+3. It proposed second bridge on the river Bhairab to connect Dighalia and bridge gap
+between the city and its eastern fringe.
+4. The plan identified some areas of traffic congestion in the city.
+5. To increase efficiency of the highways the Master Plan proposed to develop service road
+along highways to channelize local and slow moving traffic.
+6. The plan proposed extension of railway up to Mongla. The alignment was to start from
+Bajerdanga station and proceed east across Bhairab through Athanarobanki river and
+Rupsha towards Mongla Port.
+7. It proposed to expedite STOL airport development at Foila, Mongla.
+8. In the waterway sector the plan proposed river training for stability in the river through
+development of some embankment, guide banks, groynes, artificial cut off, pitching of
+bank and dredging.
+Execution of Development Proposals
+The plan proposed development of multi-modal transportation in Khulna City at Railway Station
+area. But no initiative in this regard has been taken by any authority. It proposed a second bridge
+over the Bhairab, but no step has yet been taken in this regard.
+To increase efficiency of the highways, the Master Plan proposed to develop service road along
+highways to channelize local and slow moving traffic. But no such service road has yet been
+developed. The initiative of extension of railway line up to Mongla Port area has recently been
+taken up. The STOL airport project at Foila, Mongla did not proceed further after land acquisition.
+Initiatives are observed to ease traffic congestion in the city. No initiative has been taken to link
+eastern part of the Bhairab river with the main city through construction of bridge.
+1.8.3
+
+Housing Sector Development Proposals
+
+It was estimated by the plan that in year 2020, the Structure Plan area would require 2,24,376
+housing units with another 90,000 units as replacements. Out of the total housing need in 2020,
+about 70 % would be in the Master Plan area. The plan also reviewed the housing initiatives of
+KDA and finally made the following recommendations for housing sector development:
+DDC-DATEX
+
+1-13
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+01. The plan called for involving private sector in housing development and suggested to
+promote private real estate in developing local infrastructure and services to help real
+estate development.
+02. Develop local infrastructure and realize cost of development from the local beneficiaries.
+03. Development of site and services projects for low income groups near employment
+centers.
+04. KDA in collaboration with public sector agencies could develop housing for their staff.
+05. KDA could undertake housing for the poor living in slums, particularly in city’s khas lands.
+06. It suggested KDA to prepare and implement improvement plans for unplanned and
+spontaneously developed areas.
+07. Development of infrastructure to enable housing development by land owners in new or
+fringe areas.
+08. Develop planned housing areas in the form of neighborhood unit.
+09. Promote organized or planned housing.
+10. Proposed development of planned housing at Dhopadi and Amdanga-Laxmipur in
+Noapara, Teligati, Samaganj and Thikrabandh.
+11. Proposed streamlining and promote plot based housing development by real estate with
+the introduction of new rules.
+12. Promotion of private cooperative housing.
+13. Community based housing development in the fringe areas with cost sharing by the land
+owners using the concept of guided land development.
+14. Creation of resettlement area for people affected during implementation of Master Plan
+2001.
+Execution of Recommendations
+No initiative was taken to promote private real estate companies and for local infrastructure
+development. No attempt was made to develop local infrastructure and realize cost of
+development from the local beneficiaries.
+KDA took up a sites and services project at Mirerdanga for low income people. But the project was
+not well designed to make the serviced land affordable to the low income people. No collaboration
+was made with any public sector agency to develop public housing.
+No plan was undertaken to prepare and implement improvement plans for unplanned and
+spontaneously developed areas. Only three road proposals are currently being executed by KDA,
+connecting the main city with the City Bypass. This will enable housing development by land
+owners in new or fringe areas.
+Recently, KDA has undertaken a housing project in the in the north of Khulna University in the
+form of neighborhood unit. Only land use zoning and development control measures are applied
+by KDA to promote organized or planned housing development.
+DDC-DATEX
+
+1-14
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+Lately, KDA has adopted government rules to streamline private land based housing projects. No
+initiative has been taken for the promotion of private cooperative housing. No scheme has been
+undertaken to develop community based housing in the fringe areas with cost sharing by the land
+owners using the concept of guided land development.
+No new resettlement area was created for resettlement of people likely to be affected during
+implementation of Master Plan 2001. This was not required as hardly any major project was
+implemented through eviction.
+1.8.4
+
+Town Centre Development
+
+In the Master Plan, town centre were termed as a major activity area where varied functions are
+performed dominated by commercial activity and which indicate the vibrancy of the city. Master
+Plan 2001 recommended developing 8 new town centers. It also proposed a town square near
+railway station to be developed with a comprehensive plan to accommodate retail and wholesale
+market, shopping and business precinct. It also proposed another town centre at Doulatpur with
+stadium, park, hotel, exhibition, education and medical activity.
+Execution of Recommendations
+None of the town centre proposals were implemented.
+1.8.5
+
+Commerce
+
+The 2001 Master Plan put forward some development proposals in the commercial sector, like,
+development of commercial hubs at Gallamari-Krishnanagar, Rupsha, Rajapur of North Rupsha,
+New Market-Shib Bari, Fulbari Gate, Shiromoni, Noapara; Ribbon commercial development along
+major roads with parallel service road; Commercial development around proposed town centers.
+Execution of Development Proposals
+No attempt was made to execute commercial development proposals.
+1.8.6
+
+Industry
+
+The Master Plan 2001 assessed the current status of the industrial sector, reviewed the major
+industrial locations at Noapara-Rajghat-Fultala area, Atra-Shiromoni area, Mirerdanga-Daulatpur
+Industrial belt, Khalishpur Industrial area and Rupsha-Labanchara area, Chandani Mahal Industrial
+Area, Debnagar Industrial Area, Rajapur and Jabusa. It was followed by some industrial
+development promotion proposals as stated below.
+1. Creation of special tax holiday facilities for designated industrial areas within the Master
+Plan boundary.
+2. Development of basic infrastructure facilities, particularly in privately owned areas that
+have been earmarked as industrial zone in the Master Plan.
+3. Improved transport and communication facilities within the capital city that will reduce
+travel time.
+4. Creation of a congenial environment for foreign investment through establishment of
+industrial processing zone.
+DDC-DATEX
+
+1-15
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+5. Provision of encumbrance free credit facilities at reasonable rate of interest.
+6. The plan also proposed total 3,032.57 acres of industrial zone that included 620.95 acres
+of new industrial zone apart from 2,411.62 acres of existing industrial area.
+7. Designation of areas for particular industries,
+-
+
+for service and processing industries the plan selected Rupsha Strand Road-north
+and south, Rupsha area, Daulatpur area, Sondanga Bus and Truck Terminal area for
+service and processing industries.
+
+-
+
+the study team earmarked 61.25 acres of land on the northern confluence of the
+Rupsha-Atharabanki rivers for establishment of noxious industries.
+
+-
+
+for large and medium scale industries, Noapara, Daulatpur, Mirerdanga,Khalishpur,
+Debnagar, Chandnimahal, Bhadragati and Labanchara areas were selected.
+
+-
+
+small scale industries were placed at BSCIC and KDA Industrial Estates at Shiromoni,
+Rajapur, Ramnagar and Jabusa areas.
+
+-
+
+the study team proposes to develop an IT Village at existing storage and godown site
+of KDA, west of KDA New Market on an area of about 20.96 acres.
+
+Execution of Recommendations
+No industrial estate was developed by the public sector in industrial zones. But some private
+sector industries were developed in designated industrial zones.
+1.8.7
+
+Open Space and Green
+
+The Master Plan 2001 made proposal for about 2008.00 acres open space that included park, play
+field, green space, river and road side green space and botanical garden, highway forest.
+Execution of Recommendations
+None of the above open space and green area proposals were implemented by any relevant
+agency. No waterfront green area was developed. No attempt has been made to set up urban or
+highway forest. No initiative was taken to establish botanical garden, park, play field and stadium.
+KCC is implementing a linear park development project on the Mayur River, near Gallamari
+Bridge. KDA has implemented a recreation spot at Mujgunni and a new water based recreation
+centre at Religate is under process.
+1.8.8
+
+Social Services
+
+The Master Plan 2001 first carried out an overview of all available the social services facilities and
+then made assessment of the future need of services. Standard provision of respective services
+was followed next. Then for each category of social services, the necessary proposals were set.
+•
+
+Health Care Facility
+
+The Master Plan 2001 proposed a new 200 bed general hospital in Noapara area to serve this fast
+expanding urban centre. Another 200 bed new general hospital was proposed at Labanchara to
+serve the southern part of the city, particularly, the poor or working people living in the southern
+part of the city. Keeping in mind the increasing number of mental patients, the plan proposed to set
+DDC-DATEX
+
+1-16
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+up a 100 bed mental hospital at Fultala. In order to strengthen health related manpower
+development, a nurse training institute was proposed to be established at Fultala.
+Execution of Recommendations
+No healthcare facility proposed by the Master Plan 2001 was developed by any relevant agency.
+•
+
+Education Facility
+
+The plan proposed that additional primary schools needed for local areas might be considered
+during preparation of Detailed Area Plans depending on availability of sufficient land in the locality.
+The plan also apprehended that large number of primary schools would be established on
+community and private initiatives.
+Regarding Secondary Schools, the plan estimated 1,34,826 secondary school going population by
+2010 and assumed that 50% of the existing schools would be able to introduce two shifts that
+would be able to accommodate 91,200 students. Another 43,626 students would have to be
+accommodated in new schools and this number of students would need 55 additional secondary
+schools. If it is assumed further that half of these students would-be accommodated in schools
+established on community and private initiatives, then the Master Plan would need to provide only
+28 secondary schools. To save land the plan suggested to introduce two shifts in new schools,
+which means, the same number of students could be accommodated in 14 schools only. So it was
+decided to provide only 14 new secondary schools in the Master Plan Area, each on an area of 5
+bigha (1.67 acre) or 0.067 ha.
+The plan recommended only one new college at Noapara on an area of 10 acres. To fulfill the
+local needs for sports training the plan recommended setting up a sports complex at Gilatala
+mouza in Khanjahan Ali Thana on an area of about 50 acres. A technical training centre was
+proposed at Noapara near the proposed new college, on an area of about 4.8 acres. Additional
+146 acres of land was earmarked for extension of the existing Khulna University Campus. An Alia
+Madrasha was proposed at Fultala to promote religious education. The area for the Madrasha was
+fixed at 2.87 acres. The Master Plan proposed one new orphanage at Fultala on an area of 4.00
+acres to accommodate about 200 orphans who could be trained on general and vocational
+education.
+Based on projected population of the study area it was estimated that the share of proposed
+educational land allocation rate will be 1.00 acres per 1000 population by the plan period year
+(2010 AD). This situation calls for careful considerations before putting land for urban uses.
+Execution of Recommendations
+None of the education facilities proposed for development by the Master Plan were implemented
+by any relevant authority.
+1.8.9
+
+Administration
+
+The plan suggested allocation of unused vacant land of about 30 acres at Boyra area to various
+ministries for construction of office blocks for accommodating their respective departmental offices.
+The plan recommended relocating the present jail to a more spacious area and the planning
+
+DDC-DATEX
+
+1-17
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+selected a large site of 48.31 acres on the west of Gilatala mouza in between the railway line and
+proposed City Bypass.
+Execution of Recommendations
+No development according to above proposal was made.
+1.8.10
+
+Municipal Services
+
+Under municipal service category, before making proposals for various municipal services, the
+plan first reviewed the current situation and made assessment of future need. After that the
+following recommendations were made.
+•
+
+Water supply
+
+The plan made the following proposals for water supply:
+1. Construction of one Surface Water Treatment Plant using water resources from rivers and
+storage reservoir/retention basin. The plan saw possibility of extracting fresh water from
+Majitkhali River and carried it up to Gilatala across the river Bhairab.
+2. Package type piped water supply system was proposed in Fultala and Rupsha area
+considering them as growth centres.
+3. Surface water Treatment Plant at Shiromoni, using surface water from the nearby rivers
+was proposed.
+Execution of Recommendations
+None of the above water supply development proposals were executed. But Khulna WASA is
+currently executing a surface water supply project for the city. Under this project, water will be
+collected from the river Madhumatai at Mollahat, treated and supplied to Khulna City through
+pipe.
+•
+
+Sanitation
+
+The sanitation improvement proposals of the plan were:
+1. Production and supply of components of single and twin pit latrines;
+2. Construction of public toilets in the public places like, markets, shopping areas, bus
+stations, bus and truck terminals and river ghats to give wider sanitation coverage to the
+growing needs of the people.
+3. The following guidelines were proposed to be followed for sanitation improvement
+programme.
+•
+•
+•
+
+DDC-DATEX
+
+Provide pit latrines to poor families.
+Undertaking programme for upgrading unsanitary latrines or conversion of kutcha
+latrine to sanitary latrines.
+Introduction of hygiene education programmes for the residents and school children
+from primary level. Efforts through NGOs may be made to motivate people for this
+purpose.
+
+1-18
+
+Final Planning Report
+
+•
+•
+•
+
+•
+
+Chapter 1: Background and Basic Information
+
+Public latrines with biogas plant may be set up to supply gas to the local area only in
+small scale for cooking.
+Open excreta disposal system to be controlled/stopped in areas like river/khal banks;
+stop deification in drains in low income and slum areas.
+To ensure effective cleaning, operation and maintenance, the public toilets may be
+leased out to the private parties/NGOs on contract basis. Annual maintenance cost
+may be funded from the contract fees received from the lessee who will collect the
+money through a nominal user charge.
+Introduction of small bore pipe sewerage system.
+
+Execution of Recommendations
+Latrines of many slums were provided by NGOs and donor agencies. No programme was
+undertaken to convert kutcha latrines to sanitary latrines. No hygiene education programme at
+schools and motivation programme by NGOs were taken. No programme or project was
+undertaken for production of human excreta based biogas. No programme or project was
+undertaken to prevent excreta disposal in areas like river/khal banks. In fact such bad habits seem
+to be no more among poor families.
+Very few new public toilets have been provided around public places such as bazars, shopping
+areas, transport terminals, stadiums, etc. No provision of separate public toilets for handicapped
+people is found. At many places public toilets have been leased out to the private parties on
+contract basis as per recommendation. Small bore pipe sewerage system was not introduced.
+c. Solid Waste Management
+Following were development proposals of the Master Plan 2001 under solid waste management:
+1. Setting up Controlled Dumping System for final disposal of the solid waste.
+2. Adoption of Sanitary Landfill System for final disposal of waste.
+4. Introduce common package type incinerator for disposal of clinical and hazardous waste.
+4. Recycling of waste for resource recovery and reuse of waste.
+5. Adding new vehicles and logistics in the KCC conservancy department.
+6. The plan recommended community participation and public awareness campaign for
+better management of solid waste.
+7. Plan also called for privatization of solid waste management.
+Execution of Recommendations
+KCC is currently executing solid waste recycling project and new waste dumping sites.
+d.
+
+Drainage
+
+Regarding improvement of the drainage condition the Master Plan proposed preparation of a
+comprehensive Drainage Master Plan with an integrated network of drainage system. It also called
+for formulation of a storm water drainage improvement plan. The plan recommended KCC to take
+immediate steps for removing the unauthorized structures like earthen barriers; small culverts etc.,
+from the drainage paths/khals and ensure clear right-of-way. It also called to involve NGOs/CBOs
+DDC-DATEX
+
+1-19
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+in cleaning and maintenance of the drainage and environmental sanitation activities. Pipe drain
+was recommended at places where road is narrow and where there is no space for roadside drain.
+For improvement of present drainage situation, it made specific proposals for improvement works
+as stated below:
+(a) Construction of additional drainage sluices at Tutpara and Helatola;
+(b) Construction of link drains in Boyra, Rayermohal, Nodal point of Khan Jahan Ali and KDA
+Avenue, end point of Daulatpur, Torun Sena Sarak, Khapara, Anjuman road, Dattabari
+slum, Mistripara.
+The plan proposed the responsibility of protection of khals under the threat of encroachment on
+KDA and KCC.
+Execution of Recommendations
+KCC in 2011 prepared a drainage Master Plan for its area. It is expected that with the execution of
+the plan much of the drainage problems of the city will be solved.
+e.
+
+Graveyard
+
+The plan recommends additional land for graveyard, one at Moheshwarpasha on an area of about
+38 acres and the other at Sirajkathi, Noapara on an area of about 10 acres.
+Execution of Development Proposals
+No graveyard was developed at Moheshwarpasha and Sirajkathi, Noapara. However, KCC has
+developed a new graveyard close to Nirala Residential area. A new graveyard development
+project is being undertaken by KCC.
+f.
+
+Slaughter House
+
+The plan suggested abandoning the present slaughter house and relocating it on a better site
+away from the core area of the city. For this purpose the plan has recommended a new site at
+Thikrabandh, south of Gallamari Bridge, on an area of 2.40 acres.
+Execution of Recommendations
+No slaughter house was built at Thikrabandh. KCC, however, is contemplating to develop a
+modern slaughter house.
+1.8.11
+
+Fire Service
+
+The plan recommends three more sites for fire station at,
+• west of weather station near Khulna University on an area of about 2.35 acres;
+All these sites are located in expanding urban areas that would serve the future population and
+properties.
+Execution of Recommendations
+No proposal of the Master Plan was implemented by the concerned authority.
+1.8.12
+
+Postal Service
+
+The following sites have been suggested for new post offices,
+DDC-DATEX
+
+1-20
+
+Final Planning Report
+
+Chapter 1: Background and Basic Information
+
+• north-west of proposed Satellite Town at Rupsha on an area of 0.73 acre; and
+• north of proposed Ahasanbad Residential area at Goakhola, Noapara.
+These are to serve the future population of the fast expanding settlements of the areas.
+Execution of Recommendations
+The proposals about post office were ignored by the concerned authority.
+1.8.13
+
+Police Outpost
+
+The plan recommended police outposts at strategic locations. The study team recommended that
+KDA, in its housing estate plans should reserve space for police outpost. Space for police outpost
+should also be reserved at important locations during preparation of the area specific Detailed
+Area Plan.
+Execution of Recommendations
+Many police outposts have been developed at strategic locations. KDA has not developed any
+housing estate since preparation of the Master Plan 2001, so the proposal to include police
+outpost in KDA housing estate does not apply.
+1.8.14
+
+Land Use Zoning
+
+Master Plan recommended 27 land use zones for the study area. Among the major land uses, the
+plan reserved 52.87% land for residential use, followed by 5.71% land for agriculture, 7.80% for
+transport and terminals, 6.77% for industries, 1.10% for commerce and related uses. This land use
+zoning provision will undergo revision due to changed circumstances.
+Execution of Recommendations
+The land use zoning plan prepared by Master Plan 2001 is being effectively used by KDA for
+offering land use permit to prospective developers, under the East Bengal Building Construction
+Act 1952. However, KDA could not protect the unapproved building construction.
+
+DDC-DATEX
+
+1-21
+
+

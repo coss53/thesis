@@ -1,0 +1,2387 @@
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+CHAPTER
+
+CRITICAL PLANNING ISSUES
+DDC-DATEX
+
+2-1
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+CHAPTER 2
+
+CRITICAL PLANNING ISSUES
+
+2.0
+
+INTRODUCTION
+Chapter-2 of the DADP explanatory report illustrates issues, like, existing development pattern,
+socio-economic conditions, future population growth, expected economic growth of the city,
+problems of critical nature and current infrastructure projects of various development agencies.
+The content of the Chapter has been devised following instructions of the ToR.
+
+2.1
+
+EXISTING DEVELOPMENT PATTERN
+The current section describes the critical planning issues prevailing in the project area preceded
+by analysis of prevailing development pattern from various perspectives.
+
+2.1.1 Nature of Existing Spatial Development
+Of the entire study area, spatial development is comparatively intensive in KCC area for obvious
+reasons that it is the core part of the project area. According to recent survey (2012) by the
+consultant, in KCC area there are about 1,50,132 residential building structures of various types.
+About 23.22% of these residential structures are pucca, 35.42% semi-pucca and the rest is either
+tin shed or katcha. The survey has identified 1,480 residential building structures in KCC area
+under construction. In Noapara Paurashava area, only about 15.38% of the building structures has
+been found pucca. In Extended Area, over 56.24% of the structures are katcha, while the
+percentage of pucca structure is only 10.88. Altogether, 3,36,772 residential structures of different
+categories have been found in the Study Area. Please see Table-2.1 for details.
+Table-2.1: Area wise Distribution of Residential Structures in the Study Area by
+Construction Type
+Area
+Extended
+Area
+KCC
+Area
+Noapara
+PSA
+Ground
+Total
+
+No.
+/%
+No.
+%
+No.
+%
+No.
+%
+No.
+%
+
+Katcha
+8,9267
+56.24
+55,008
+36.64
+10,288
+36.85
+1,54,563
+43.24
+
+No
+Information
+503
+0.32
+112.00
+0.07
+135.00
+0.48
+750
+0.29
+
+Pucca
+17,273
+10.88
+34,858
+23.22
+4,295
+15.38
+56,426
+16.50
+
+SemiPucca
+44,560
+28.07
+5,3173
+35.42
+11,852
+42.45
+1,09,585
+35.32
+
+Source: Physical Feature Survey conducted by the consultant, 2012.
+
+Tin
+Shed
+5,567
+3.51
+5,501
+3.66
+1,115.
+3.99
+12,183
+3.72
+
+Under
+Construction
+1,553
+0.98
+1,480
+0.99
+232
+0.83
+3,265
+0.93
+
+Ground
+Total
+1,58,723
+100
+15,0132
+100
+27,917
+100
+3,36,772
+100
+
+However, the current trend of spatial development in the core part of the project area is more
+towards infill than directional or horizontal. City’s prime areas still have vacant lands. Currently,
+these lands are being used for infilling. Directionally, the trend of spatial growth is towards south
+and west around the City Bypass. Large areas lying within the City Bypass are expected to be the
+next locations of future urban expansion. Influence of Khulna University and the City Bypass is
+serving as the prime driving force for growth towards south west. Another reason is that these
+areas have good connectivity with the prime activity areas of the main city. Field observation
+DDC-DATEX
+
+2-2
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+shows, almost all agricultural lands within these areas have already been sold out by the farmers
+to non-farmers. The buyers are now waiting for the right moment to start development, significant
+part of which is likely go to residential use.
+The pace of land development in Khulna is extremely slow. Since 2001, there has not been any
+significant spatial development in the city and surroundings. Pace of development is largely
+determined by the availability of infrastructure and services that include access road, water supply,
+power supply and drainage. However, affordability of the land owners is also a major factor for
+development. Above all, the economic activities creating employment serve as the most important
+driving force. Within the main city retail businesses have increased in certain areas as shown by
+the increased number of commercial structures in those areas.
+KDA Avenue has been the focus of retail and service sector development, including bank and
+insurance, corporate office, electronic products and furniture. There has been increase of
+commercial and industrial development in Noapara also.
+2.1.2 The Pattern of Land Development
+In absence of public sector intervention, in terms of planned development, Khulna City has largely
+developed in an unplanned manner. This is, however, very common for every urban center in
+Bangladesh, where planned development is yet to become an urban development culture. Almost
+all infrastructure, services and major institutions and establishments, both, under public as well as
+private sector, are being developed in an unplanned manner driven by demand. According to 2001
+Master Plan, in Khulna, it took many years for density of a particular area to reach metropolitan
+average. Khulna Master Plan 2001 observed that among five KDA housing schemes; none could
+reach optimum level of population density even after laps of substantial time (KDA, 2001). About
+20 years after establishment of Sonadanga (first phase) Residential Area it reached residential
+density of only 37 ppa in 2001, while Muzgunni had only 13 ppa during the same period. Nirala,
+however, showed relatively better performance with a density of about 47 ppa in about 18 years.
+The only residential area, Khalishpur, developed almost to its full capacity over a period of 40
+years. The area was developed during the 1960s, when industrialization of the city was booming.
+Physical feature survey by the consultant (2012) reveals that 137 plots in Nirala Residential Area
+are still lying vacant, which is about 27% of the total plots in the area. The current estimated
+population (2013) in this residential area stands at about 6,138 persons giving a per acre density
+of about 86.
+Like other urban centres, housing (residential) is the most dominant land use in Khulna City.
+Devoid of planning, residential areas develop spontaneously on private initiatives. During the last
+decade, the private sector formal housing enterprises have cropped up in the city with planned
+housing projects where plots are consolidated and again subdivided into regular shape and sold to
+the buyers with minimal road provisions. No other utility or community services are provided.
+There are three main actors in the land development process, they are, public agencies, private
+formal sector or real estate developers and the private individuals or private informal sector.
+The public sector agencies that play the role of prime promoters of planned residential
+developments in Khulna City are, Khulna Development Authority (KDA), National Housing
+Authority (erstwhile Housing and Settlements Directorate-HSD), Khulna City Corporation (KCC)
+DDC-DATEX
+
+2-3
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+and Public Works Department (PWD). Of all these agencies, KDA plays the most important role.
+While KDA work for people in general, PWD acts only for the government. KCC, on the other
+hand, develops land and infrastructure, both, for individual and community usage. Other agencies
+which play important role in development are the security and defense services establishments
+like, Army, Navy, BDR and the Police. Together they have developed a good number of housing
+areas in the city. KDA has developed a number of planned residential estates in the city. But
+altogether, these cover only about 5.50% of KCC area (KDA, 2001). KDA also developed some
+planned industrial estates, but most plots of the industrial estates are lying vacant. Under the
+current development administration, planned development projects by public sector agencies
+takes a long time to execute due to lengthy process of project approval, land acquisition and
+development. Apart from these constraints, execution of a project needs substantial budget
+allocation and government is not always ready to allocate such budget due to resource constraint.
+KDA builds major infrastructures in the city, carries out development and prepares land use plans
+to guide the city’s overall development. All public agencies develop land in the city through
+compulsory acquisition of privately owned lands.
+Lands are also developed through the private real estate companies that may be called private
+formal sector. This is comparatively a new phenomenon in Khulna City. A decade back there
+were a handful developers supplying sub-divided land for housing. Master Plan 2001 called to
+control private land based housing companies through formulation of appropriate regulations. It
+recommended compelling them to reserve at least 40% of the project land for infrastructure and
+services. Lately, government has enacted a new law to streamline development activities of the
+private land based housing estate companies applying standard in housing area layout design.
+KDA is in charge of executing this law within its control area. Real estate companies are also
+coming forward in the city with apartment business. There is more than a dozen of real estate
+developers engaged in land business, another similar number of companies are engaged in
+apartment development. Land projects of these companies are found around the fringe areas of
+the city. A good number of such projects are located along the Khulna-Satkhira road and by the
+City Bypass. Though the number of such companies is gradually increasing, they are yet to play
+any significant role in serviced land supply for housing. Apartment developers usually choose
+lands in prime areas of the city, like, Sonadanga, Nirala, Shamsur Rahman Road, Ahsan Ahmed
+Road, and Mohsin Road. They develop apartments jointly with land owners on sharing apartment
+units with land owners.
+Private informal sector, currently, is the largest land developer everywhere in Bangladesh. The
+private individuals develop land mainly for housing, commercial and industrial uses. They inherit or
+buy land from open market and develop them for their desired usage. Most of the residential areas
+in Khulna City have developed spontaneously under private initiatives. In all these spontaneously
+developed housing areas roads are designed on community initiative and developed by the urban
+local government, if the area is within its jurisdiction. Master Plan 2001 recommended improving
+the environmental condition of the spontaneously developed areas through improvement of
+physical facilities in cooperation with the local land owners.
+
+DDC-DATEX
+
+2-4
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+2.1.3 Existing Land Use Pattern
+As ascertained from the land use survey, about one third (35.76%) of the study area is still under
+agricultural use that lie beyond urban area and dominated by rural character. The overall picture of
+the study area shows that the land use pattern is changing mainly in the city fringe areas, where
+agricultural lands are gradually being transformed into non-farm uses. As the population and
+economic activity increase, demand for new land also rises proportionately. Since agricultural land
+is the only source of land supply, any new demand for urban land presses on existing agriculturalland.
+It is evident from the land use survey data that only about half of the study area is under urban
+activities. About one third (34.38%) of the land goes to residential use. This has two implications;
+first, that vast lands are readily available to accommodate future population of the city expands.
+Second, the current density is low in the city and the settlements are dispersed in the study area.
+When settlements are dispersed it creates problems in providing line infrastructure, utilities and
+services. More investment has to be incurred to extend service lines to far off settlements.
+While there are vast land parcels still lying undeveloped in the main city areas, residential
+structures are coming up in comparatively very low density areas in the fringe. Lack of affordability
+forces people to buy lands in the fringe, where land price is lower, but most urban infrastructures
+are still either lacking or inadequate.
+Recreational facilities including recreational open space covers only 0.26% of the study area.
+About 10.49% land of the study area is covered by water bodies that include pond, canal, wetland,
+river and their tributaries spread over the study area mainly in the extended area, outside the
+urban areas. Urban green, mostly formal green areas, constitute about 0.64%, or 371.11 acres.
+Please see Table-1.3 for details.
+Though Khulna is called an industrial city virtually not much of its land is devoted to industry as
+found from land use survey. In City Corporation area, only about 4.18% land is under
+manufacturing and processing land use. Same is the situation with commercial use. In the KCC
+area commercial land use constitutes only 0.74% of the total city corporation area which is
+extremely meager. It indicates very low rate of investment is being injected into commercial and
+manufacturing sector. This is the main reason for economic backwardness of Khulna City. The
+city is not likely to flourish unless it is economically vibrant.
+2.1.4 Land Use Changes Since 1998
+Because of reclassification of the generalized land use categories, comparison of all land uses
+between 1998 and 2012 survey data is not possible. However, a comparison of some selected
+land uses is possible that can give some hints about pattern of land use changes taken place
+since 1998.
+As evident from Table-2.2, since 1998 agricultural land in the study area has reduced by 48.41%
+during last 14 years. This is an indication that farm lands are gradually being converted into nonfarm uses. The annual conversion rate is about 3%. During the same period commercial land use
+has gone up by 18.80% which indicates positive economic growth in the city and surroundings
+during the period under consideration. However, compared to changes in other land uses, rate of
+increment of this land use is less than significant. Manufacturing area has increased by 13.66%
+DDC-DATEX
+
+2-5
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+which indicates that the study area is encountering industrialization at a flow rate. Urban housing
+data have been shown combined with rural housing as the land use survey was not done
+separately in 2012. Overall residential land use has increased by more than 0.77%. Actually, large
+scale increase has occurred in the rural housing sector through conversion of agriculture land.
+Some of the rural homesteads have also gone to urban housing. Due to differences in land use
+categories in two surveys, other land use data could not be compared.
+Table-2.2: Comparison of Changes in Selected Land Uses 1998–2012
+
+Land Use
+1998 Survey Data
+2012 Survey Data
+Change
+1. Agriculture
+29,884.80 acre
+15,415.97 acre
+-48.41%
+2. Commercial
+312.00 acre
+370.67 acre
++18.88%
+3. Industry/Manufacturing
+1,533 acre
+1,742.44 acre
++13.66%
+4. Residential
+16,106.75 acre
+16,231.91 acre
++0.77%
+Source: 1.
+Interim Report, Vol. 1, Comprehensive Report, Khulna Master Plan 1998, KDA, Khulna.
+2. Survey Report, Detailed Area Development Plan, 2012, KDA, Khulna.
+
+DDC-DATEX
+
+2-6
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+Map-2.1: Generalized Land Use Pattern of the Study Area
+
+DDC-DATEX
+
+2-7
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+Map-2.2: Generalized Land Use Pattern of the Khulna City
+
+DDC-DATEX
+
+2-8
+
+Final Planning Report
+
+2.2
+
+Chapter 2: Critical Planning Issues
+
+LAND OWNERSHIP
+On the basis of ownership, lands in Bangladesh can be divided into two categories–state owned
+land or public land and private land. A insignificant share of the project area land is owned by the
+state. The publicly owned lands are shared by various public sector agencies, except khas lands.
+Public sector agencies use these lands to perform their respective functions. Originally, except
+khas land almost all land belonged to the private sector. Government made compulsory acquisition
+of all these lands from the private land owners to implement development projects, including road
+and various other infrastructures and to set up public offices and other public sector
+establishments. River, khal, and other lands, not belonging to private owners, are khas land.
+These lands are administered by the Land Department of the Ministry of Land. In the urban part of
+the study area, quite a large area of land belongs to various government departments. These
+include, apart from road and railway line,
+•
+•
+•
+•
+•
+•
+
+administrative buildings of public sector agencies;
+government hospitals and other health facilities;
+government educational and research institutions;
+public sector manufacturing and commercial establishments;
+public sector housing areas;
+public sector social and utility services installations, etc.
+
+Rest of the huge percentage of land belongs to a large number of private individuals and
+institutions. Household sample survey shows, about 47% of the houses in the Khulna City belong
+to owner residents.
+
+DDC-DATEX
+
+2-9
+
+Final Planning Report
+
+2.3
+
+Chapter 2: Critical Planning Issues
+
+SOCIO-ECONOMIC CONDITIONS
+There are many parameters based on which the socio-economic conditions of the city can be
+analyzed. But this will be a lengthy discussion and most of the issues will have very little
+implications to the current plan making process. Thus, consultant limits its analysis of current
+socio-economic conditions on selected issues only.
+
+2.3.1 Demographic Characteristics
+2.3.1.1
+
+Density of Population
+
+Since 1960s there has been steady upward rise in the population and density in Khulna City.
+Table-2.3 shows year wise data on density of population in Khulna City. It is evident from the
+table that, following the war of liberation there was a sudden jump in the density concomitant with
+the rise in population. Density rose from only 7 persons/acre in 1961 to 38 ppa in 1974, a rise of
+about 446.32%. Then gradually the rate of migration fell down as the local economy lost its pace of
+growth. This situation continued till 1991, then the density was found moving upward again in
+2001. The density was the highest with 75 persons/acre or 18,424 persons/sq.km. Based on
+projected population density has been estimated by the consultant for the year 2013, which shows
+89.05 persons/acre or 22,004.72 persons per square kilometer. This is about 18.73% increase
+over 2001.
+Table-2.3: Density of Population in Khulna Municipality/Khulna City Corporation
+Year
+
+Source:
+
+1961
+1974
+1981
+1991
+2001
+2013*
+
+Density of Population
+Density/Acre
+Density/Sq.km.
+7
+1,740
+38
+9,506
+49
+12,216
+58
+14,420
+75
+18,424
+89.05
+22,004.72
+
+% increase
+446.32
+28.51
+18.84
+27.77
+18.73
+
+Bangladesh Population Census, 1961, 1974, 1981, 1991 and 2001, Bangladesh Bureau of Statistics.
+* Estimation based on projected population.
+
+Table-2.4 gives the density of population data in Noapara Paurashava and Extended Area.
+Noapara Paurashava, having an area of 26.52 sq.km. had a population of 85,000 as per 2001
+population census report, when the density of population stood at 3384 persons/sq.km. and 14
+persons/acre. According to 2011 population census the density of population was 2,729.18
+persons/per sq.km or 15.11 persons/acre. In 2013, the density of population in Noapara
+Paurashava and Extended Area have been estimated as 15.90 persons per acre and 10.52
+persons per acre respectively Table-2.4.
+Table-2.4: Density of Population in Noapara and Extended Area 2013
+Area
+Noapara Paurashava
+Extended Area
+
+Density of Population
+Density/Acre
+Density/Sq.km.
+15.90
+3,929.71
+10.52
+2,599.77
+
+Source: Estimated by the Consultant based on projected population.
+
+DDC-DATEX
+
+2-10
+
+Final Planning Report
+
+2.3.1.2
+
+Chapter 2: Critical Planning Issues
+
+Migration
+
+Partition of India in 1947 resulted in a large scale Muslim migration from India to the then East
+Pakistan. This was followed by a second wave of refugee influx in 1965, during India-Pakistan war
+and consequent breakout of communal riot in Calcutta. In absence of data, it is difficult to ascertain
+the volume of population movement to Khulna, however, percent of refugee influx in Khulna district
+may give some idea of the volume of refugees moving into the Khulna urban area. During 1951,
+out of 2.08 million total population of Khulna district, about 1.2% was refugees (GOB, 1951; BBS
+1974). This figure accounted for 3.7% of the total refugees arriving to the then East Bengal. The
+refugee influx from India into Khulna town was not demographically significant. Nevertheless, the
+War of Liberation in 1971 forced many urban dwellers of Khulna to leave the country, but almost
+all of them repatriated immediately after liberation, except many Hindu families. The rate of
+migration in Khulna City during 1950s and 1960s was prompted by the industrial growth leaded
+by the flourishing export market, mainly in jute and jute goods sector. But later on, with the
+dwindling of the export market and the closure of many jute industries, the rate of migration in the
+city slowed down over the years Table-2.5.
+The migration rate recorded sudden rise after liberation in 1971 caused by the unprecedented
+political turmoil and interruption in the agriculture production process in rural areas. Due to the
+economic upheaval, the means and sources of income of the marginal population living in the
+countryside was seriously disturbed leading to increase in unemployment and poverty and forced
+a large number of them migrated to urban areas in search of livelihood.
+Household survey (2012) by the consultant shows, about 43.88% of the total surveyed households
+in DADP study area have migrated into the city from other places (mostly from rural areas) during
+last 30 years. Studies have shown that migrated people choose those urban centers as their
+destinations, where they can travel with ease and low cost, apart from availability of job
+opportunities. In case of Khulna City most migrants are from Bagerhat, Satkhira, and Gopalganj
+and as far as from Barisal district. These places have very good road communication with Khulna
+City and can be reached within three hours.
+Table-2.5: Proportion of Life Time Net Migration, 1961-1998
+Year
+1961
+1974
+1998
+2012
+
+Source:
+
+Area
+Khulna Municipality
+Khulna District plus Satkhira, Bagerhat and Mongla Port municipality
+KDA Area
+DADP Study Area
+
+Percentage of
+Migrated Population
+42.94
+43.68
+48.45
+43.88
+
+1.KDA, 1980 Investment and Employment Survey of Khulna Master Plan Area, Final Report, Vol. I, Dhaka.
+2.BBS, 1974
+3. Household Survey by the Khulna Master Plan Consultant, 1998.
+4. DADP Household Survey by the consultant, 2012.
+
+2.3.2 Family Health
+The health data presented in this section have been gathered from the household survey
+conducted by the consultant in 2012.
+a.
+
+Disease
+
+It is revealed by the household survey (2012), in KCC area the most common disease is the
+Fever, followed by Diarrhea/Dysentery. The sufferers are from all income groups in the society.
+DDC-DATEX
+
+2-11
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+Diarrhea is almost equally present among the households earning monthly income between Tk.
+3000 to Tk. 40,000+. Diabetes is prominent among upper middle and upper income groups. For
+details about diseases please see Table-2.6.
+Table-2.6: Family Diseases in KCC Area
+
+Disease by Income Group
+3001
+6001
+9001
+12001
+15001
+Disease
+<=3
+000
+6000
+9000
+12000
+15000
+20000
+Fever
+57
+530
+603
+859
+701
+815
+Diarrhea/dysentery
+33
+422
+382
+539
+359
+368
+Jaundice/pneumonia
+4
+54
+84
+73
+30
+42
+Rheumatic/asthma
+2
+28
+43
+48
+24
+17
+Female disease
+3
+17
+37
+66
+24
+55
+Skin disease
+1
+2
+10
+13
+13
+9
+Diabetes
+4
+31
+70
+142
+91
+308
+Heart disease
+0
+8
+9
+25
+20
+43
+1
+4
+3
+12
+7
+14
+Others
+Source: Household survey conducted by the Consultant, 2012.
+
+b.
+
+20001
+30000
+477
+260
+34
+24
+29
+7
+123
+40
+5
+
+30001
+40000
+80
+81
+3
+9
+5
+2
+29
+27
+4
+
+40000
++
+60
+40
+3
+6
+3
+2
+6
+4
+0
+
+Place of Treatment
+
+Over half of the respondent households in Khulna City prefer government health facilities for
+regular treatment. About 45.38% of households take to private healthcare facilities for regular
+treatment. Low and lower middle income groups prefer public health care facility because of its low
+cost. But due to lack of quality services solvent households are gradually shifting their option to
+private healthcare services.
+c.
+
+Family Health Expenditure
+
+Less than half of the households spend between Tk. 1,000 to Tk. 5,000 per month on average for
+family health purposes as the field survey shows. Over 16% households spend between Tk. 5001
+to Tk. 8,000 per month. Only over 14% households’ health expenditure go beyond Tk. 8,000 per
+month.
+2.3.3 Education
+According to 2011 national population census reports, the literacy rate in the study area for
+population of 7 year + stands at 68.61% and for KCC area, it is 74.40%. For Noapara Paurashava
+and the Extended Area the figures are 62.50% and 60.90% respectively. In 1980 the literacy rate
+was only 52.80% in KDA area revealed by Investment and Employment Survey of Khulna Master
+Plan area conducted by KDA in 1980 for 7 year + population.
+2.3.4 Housing
+a.
+
+Type of House Occupancy
+
+Household survey by the consultant reveals that in Khulna City over 45% of the households live
+in rental houses. According to 2001 Master Plan Project Comprehensive Report, about 36% of the
+city’s people used to live in rental houses. Currently, about 46.34% live in their own houses.
+Government allotted houses account for 2.44% Table-2.7. The area of about half of the owned
+houses is below 1000 sft.
+
+DDC-DATEX
+
+2-12
+
+Final Planning Report
+
+b.
+
+Chapter 2: Critical Planning Issues
+
+House by Construction Type
+
+About 30% houses in KCC area are of permanent type, 38% semi-pucca and 42% made of either
+CI Sheet or are katcha. Of the total building structures in KCC area, about 18% is 1000 sft. or
+below, over 66% building structures are between 1,000 sft. to 1,500 sft., 13.44% have area
+between 1500 sft. to 2,000 sft. and only 2.13% have above 2,000 sft. area.
+Table-2.7: House Occupancy by Type in the Study Area
+
+Building/
+Structure Size
+(Covered Area)
+sft.
+Below 1,000
+100 to 1,500
+1,500 to 2,000
+Above 2,000
+Total/Average
+
+Owner
+Occupied
+No.
+%
+723
+47.32
+2454 43.31
+628
+54.85
+144
+79.12
+3949 46.34
+
+Joint
+Ownership
+No.
+%
+6
+0.39
+35
+0.62
+4
+0.35
+1
+0.55
+46
+0.54
+
+Source: Household survey by the Consultant, 2012
+
+c.
+
+House Ownership Type
+Government
+Rental
+Lease
+Allotted
+No.
+%
+No.
+%
+No.
+%
+18
+1.18
+646 42.28 3
+0.20
+134
+2.36
+2,728 48.15 21 0.44
+56
+4.89
+434 37.90 2
+0.17
+0
+0.00
+37
+20.33 0
+0.00
+208
+2.44
+3845 45.12 26 0.31
+
+Illegal
+Occupier
+No.
+%
+132 8.64
+290 5.12
+21
+1.83
+0
+0.00
+443 5.20
+
+Building Plan Approval
+
+Regarding approval of building plans from KDA by land developers, information was obtained from
+only 4,674 house owners in KCC area, out of listed 8,157 house owners. Of the total respondent
+house owners, only 26.34% reported that they had their building plans approved by KDA. One of
+the main reasons for lower percentage of approved building plans is that, a large number of
+structures are katcha and semi-pucca. Usually, the owners of such structures do not go to KDA for
+approval of their structures, because there is a common belief that approval is not required for
+those kinds of structures. In Noapara Paurashava, only 4.82% house owners got their house plans
+approved.
+d.
+
+Room Density
+
+About 60% of the families have 2 to 3 rooms in Khulna City. About 1/3 of the 2 member families
+have been found to have 2 rooms. Usually, the poor and low income families cannot afford to have
+more rooms for their family members. Survey reveals, 41.67% families having 9 members enjoy 4
+room houses. Only 33.33% families having 10+ members have more than 6 rooms and obviously
+they are well off families.
+Room density is fairly good in Khulna and Noapara. There is an average density of 1.39 persons
+per room in KCC area and 1.69 persons per room in Noapara Paurashava Table-2.8. As mostly
+rural in nature, in Extended Area of the project area room density is less than 1 person per room
+(0.45). Higher room density means, there is crisis in affordable housing or in other terms the
+housing is costly, therefore, more people have to share smaller number of rooms. This is usually
+the case in big cities where there is large number of low income people faced with smaller number
+of affordable houses. Due to low income, these people have to live in degraded housing in slums
+and share a room by many family members that lead to higher room density. High room density is
+not conducive to healthy living. This is an indicator of low standard of living.
+
+DDC-DATEX
+
+2-13
+
+Final Planning Report
+
+Table-2.8: Housing Room Density
+Area
+KCC
+Noapara Paurashava
+Extended Area
+
+Chapter 2: Critical Planning Issues
+
+Room Density (Persons per Room)
+1.39
+1.69
+0.45
+
+Source: Household and Physical Feature Survey by the Consultant, 2012.
+
+e.
+
+House Rent
+
+About 32.23% of the tenant households pay Tk. 1,000/month and less as house rent in Khulna
+City. Over 33% pay between Tk. 1001 to Tk. 2,000. About 28% pay between Tk. 2,001 to Tk.
+4000. Only 0.04% households in the city have been found paying above Tk. 10,000 per month as
+house rent. In Noapara Paurashava, over 54% pay Tk. 1,000 and less as house rent. About 36%
+pay between Tk. 1,001 to Tk. 2,000.
+2.4
+
+HOUSEHOLD UTILITY SERVICE
+
+2.4.1 Water Supply
+Only about 20.41% and 2.75% households of KCC and Noapara Paurashava respectively enjoy
+municipal water supply. In Extended Area almost entire population depend on tube well for their
+everyday water supply. Household Income and Expenditure Survey (HIES) 2010, conducted by
+BBS shows, nationally, on average, only 10.62% household’s use supply water for drinking
+purpose, available only in urban centres, but not all. In KCC area 68.49% households are satisfied
+with the amount water supply, while over 74.52% of the Noapara Paurshava respondents’
+response was also positive about adequacy of water supply. Regarding quality of water, over 74%
+of the respondents indicated their satisfaction in Khulna City. However, large areas in the southern
+part, the ground water is subject to salinity at various degrees. Water quality is much better as one
+moves northward. 81.24% of the households of Noapara Paurashava find their water drinkable.
+2.4.2 Fuel
+Fire wood is still the most dominating fuel in the study area, where about 76% of the households
+use firewood as their main cooking fuel. In KCC area, 36.47% of the surveyed households use
+LPG cylinder gas, while 59.63% use firewood. This clearly indicates that majority of the
+households in the city cannot afford cylinder gas. In Extended Area, over 89% use firewood not
+only that they cannot afford LPG but also for reasons that they belong to rural part of the study
+area where fire wood and other biomass is widely available.
+2.4.3 Source of Light
+In the study area, on average, 91.33% households enjoy electricity facility. Household Income and
+Expenditure Survey (HIES) 2010, conducted by BBS shows, nationally 55.26% households have
+access to electricity, with 42.49% in rural area and 90.10% in urban area. In KCC area 91.80%
+households have electric power supply. For Noapara Paurashava the figure is 88.29%. However,
+like rest of the country, irregularity of power supply is a major problem.
+
+DDC-DATEX
+
+2-14
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+2.4.4 Sanitation
+In the study area, 74.59% households use pucca latrine or hygienic latrine. This figure is 71.33%
+and 95.87% respectively for KCC and Noapara Paurashava, while in Extended Area 77.50%
+households have access to pucca latrine. Household Income and Expenditure Survey (HIES,
+2010) shows, nationally 18.37% households have access to sanitary latrine. In Khulna Division,
+13.07% households use sanitary latrine according to the same report. The report revealed that in
+rural areas of Bangladesh 13.90% households have sanitary latrines; while on average 30.56%
+households in urban areas have access to sanitary latrine.
+
+DDC-DATEX
+
+2-15
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+2.4.5 Solid Waste Disposal
+In KCC area about 41% of the household dispose their daily waste through door to door collection
+system operated by CBOs; the rest is littered around dustbin, water body, ditch, etc., as revealed
+by the household survey.
+2.5
+
+MOBILITY AND TRANSPORT
+About 98% households in Khulna and 87% households in Noapara Paurashava do not have any
+kind of personal transport. Newly introduced battery operated Easy Bike and Rickshaw dominate
+the local travel in Khulna and Noapara. Next important mode is Baby Taxi. But because of its
+higher cost and limited route of operation it is not a widely used mode. In Khulna City household
+members travel between 0.05 km to 1.75 km daily for education purpose, 1 km to 4 km to work
+place and 1 km to 5 km for shopping. They pay Tk. 10 per km for rickshaw, Tk. 4 per km for Easy
+Bike and Tk. 6 per km for Baby Taxi. The picture is almost similar for Noapara where there is no
+existence of Baby Taxi for local mobility.
+
+2.6
+
+LAND VALUE
+Land value is a very important element in urban life that affects urban community’s access to
+housing, in particular, and investment in economic activities in general. Higher land value to leads
+to higher rent and raises the cost of investment. Land value in Khulna City and surroundings is on
+gradual rise under the pressure of demand for space. Rise in land price indicates three thingsfirst, that population is increasing in the city; second, that affordability of the people is on rise and
+the third, that business activity is in progress in the city.
+Study of land value is not an easy task in Bangladesh. It is extremely difficult to have access to the
+actual land value as there is no formal way to access to the information what price the individual
+buyer and the seller have settled for transfer a piece of land. Government fixes land price for
+selected urban areas to prevent evasion of capital gains tax. The actual land exchange rate is
+determined by the market price of land and it is many folds higher than the government
+determined price. The price quoted in the deed is much lower than what is actually paid to the
+seller. Please explore Appendix-2.2 and Appendix-2.3 for details.
+The current analysis of land value is focused on the city fringe areas where land transfer is an
+ongoing process. The main city areas, which are already built up, land transfer rarely occurs and
+therefore, procurement of land price data is difficult. In the Table-2.9 a comparative picture of
+government and market land prices are presented for some selected mouzas.
+Table-2.9 shows the mouza wise land price determined by the government to be quoted in the
+sale deed as sale price, side by side the actual land price prevailing in the field have been
+presented. The data on current price of land have been collected during physical feature survey,
+from land brokers and the land owners. A comparative study of government price and the current
+market price reveals a large discrepancy between the two. Government price, in most cases, lag
+far behind the current market price. The highest variation has been found in Labanchara mouza,
+where the current market price is 122% higher than the price determined by the government for
+the mouza. However, in many mouzas, land is being sold at a lower price than government price.
+In the low part of Damodor mouza, land has been found to sale at Tk. 48,484/decimal, while
+DDC-DATEX
+
+2-16
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+government determined price for the entire mouza is Tk. 1,30,483 decimal. At a different place of
+the same mouza, land is sold at Tk. 1,81,818 per decimal. It is evident from the collected data that
+the land price is comparatively higher in central-west, south-west and southern parts of the city
+fringe. In these areas the current land price varies between Tk. 4 lakh to Tk. 12 lakh per decimal.
+Lower government price means loss of revenue for the government.
+Table-2.9: Picture of Current Land Price in Selected Fringe Mouzas of the Project Area
+Current Government
+Price for Entire
+Mouza
+(Price Per decimal)
+
+Thana/
+Mouza
+
+Labanchara
+
+Tk. 88,651
+
+Current Field Level Price
+
+Price per
+Decimal
+Tk.3,63,636
+Tk.3,03,030
+Tk. 11,818
+Tk. 7,27,227
+Tk. 1,40,000
+
+Jabusa
+
+Tk. 92,622
+
+Kismat Tilak
+
+Tk. 40,000
+
+Lakhpur
+Beel Pabla
+Deana
+
+Tk.19,778
+Tk. 2,38,851
+
+Deana
+
+Tk. 2,38,851
+
+Aranghata
+Teligati
+
+Tk. 39,464
+Tk.13,889
+
+Damodor
+
+Tk.1,30,483
+
+Moshiali
+
+Tk. 17,645
+
+Shiromoni
+
+Tk. 1,57,224
+
+Krishnanagar
+
+Tk. 3,10,807
+
+Harintana
+
+Source:1.
+
+Tk. 1,05,827
+
+2.
+
+Tk. 70,000
+Tk. 1,00,000
+Tk. 80,000
+Tk. 100,000
+Tk. 12,00,000
+Tk. 1,21,000 to
+Tk. 1,81,000
+Tk. 1,00,000
+Tk. 1,60,000
+Tk.1,81,818
+Tk.48,484
+Tk. 4,00,000
+Tk. 40,000
+Tk. 1,09,090
+Tk.1,66,667
+Tk. 4,54,545
+Tk. 6,66,667
+Tk. 4,84,484
+Tk.1,81,818
+
+Location and Environment
+Mohammadiapara, near main road, usable for
+commercial purpose.
+Interior, homestead land with access road.
+Close to main road, undeveloped area
+Close to Rupsha bridge, commercially usable, good
+accessibility.
+Near Jabusa intersection, agricultural land,
+undeveloped area, no access road.
+Near Jute Mills, agricultural land, undeveloped area,
+no road.
+Near Khudir Battala, undeveloped agricultural land
+without access road.
+Near main road, undeveloped land.
+Paddy land, away from main road, no road access
+Beside local road.
+No visible access to local road.
+Undeveloped area, access to local road.
+Beside local road.
+Beside J.K Road.
+Beel area, undeveloped environment, no road
+access
+Beside local road.
+Remote area, away from built up area.
+Beside Beel Dakatia road
+Private housing estate plot, 8 ft. access road,
+undeveloped area.
+Private housing estate plot, 10 ft. access road,
+undeveloped area.
+Beside Khulna-Satkhira road.
+Mohammadnagar, near City Bypass
+Low land, access to katach road.
+
+Government Gazzette Notification No.
+Local brokers and local residents, land owners and sellers.
+
+Like other urban centres of the country there has been exorbitant land price hike in Khulna City
+and its surroundings. Recent survey by the consultant reveals that in last 7 years there has been
+40 to 900% increase in land price around the city, depending on location and availability of
+services. As Table-2.10 shows, land value did not raise much in areas that lie far away from the
+road access. While there has been exorbitant rise in areas that have direct access to any arterial
+
+DDC-DATEX
+
+2-17
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+road. Land having higher elevation is sold at higher price than the land located in undeveloped
+areas.
+Table-2.10: Land Value Increase in Selected Areas of the Study Area
+Sl.
+No.
+1.
+2.
+3.
+4.
+5.
+6.
+
+Land Value Increase According to Location
+
+Location
+
+Purchase Price
+
+Sale Price
+
+Beel Pabala
+Beel Pabala
+Krishnanagar
+Chak Mathurabad
+Chak Mathurabad
+Krishnanagar
+
+Tk. 4.00 lac/katha
+Tk. 60,000/katha
+Tk. 50,000/katha
+Tk. 5 lac/katha
+Tk. 4 lac/katha
+Tk. 1.50 lac/katha
+
+Tk. 2.5 lac/katha
+Tk. 1.5 lac/katha
+Tk. 5 lac/katha
+Tk. 16 lac/katha
+Tk. 13.30 lac/katha
+Tk. 4.66 lac/katha
+
+Percentage Increase in
+Number of Years
+37.50% in 2 years
+150% in 4 years
+900% in 7 years
+220% in 2 years
+233% in 25 years.
+2111% in 2 years
+
+Source: Local brokers and local residents, land owners and sellers.
+
+2.7
+
+POPULATION GROWTH
+
+2.7.1 Past Population Growth in Khulna City
+KCC is the largest segment of the study area accommodating about 62% of the population of the
+study area. The growth rate of population in this area between 1991 to 2001 was 2.71%. In 1991,
+the population of KCC was 6,63,340 that rose to 7,70,231 in 2001. During a period of 10 years, the
+population of KCC increased by 16.11% Table-2.11. Whatever the growth rate is, observation
+from projected data indicates that the absolute population of the Khulna City has increased
+moderately during the last two census periods. Based on population census information, Table2.11 shows the growth of population in Khulna City from the beginning of the last century till 2001.
+The 2011 population census results seemed dubious to the consultant as it showed abnormally
+low population compared to preceding census.
+Table-2.11: Population of Khulna Municipality/ Khulna City Corporation Area-1901-2011
+Year
+1901
+1911
+1921
+1931
+1941
+1951
+1961
+1974*
+1981
+1991
+2001
+2011
+
+Municipality/ KCC Population
+10,430
+18,170
+23,500
+28,000
+34,000
+42,220
+80,220
+4,37,300
+5,61,950
+6,63,340
+7,70,231**
+6,88,881
+
+Growth Rate/year
+-5.55
+2.57
+1.75
+1.94
+2.17
+6.42
+13.04
+3.58
+1.66
+2.71
+-
+
+Source: Bangladesh Population Census, 1974-2001, BBS.
+Note:
+* The census of 1971 could not be held because of the Liberation War. The, census was held in 1974 after liberation
+** New estimation as per BBS instruction in 2012.
+
+During the post-independence years, Khulna City experienced exorbitantly high increase in
+population following socio-political turmoil during 1971 war of liberation that led to massive ruralurban migration after liberation. Population in the study area was 13,01,266 in 2001 that rose to
+17,69,233 (projected) in 2012.
+
+DDC-DATEX
+
+2-18
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+2.7.2 Population Projection
+The current project made a fresh projection of population for KCC, Noapara Paurashava,
+Extended Area and the Study Area as a whole for the years 2013, 2018 and 2023 Table-2.12. The
+projection shows, the population of KCC will reach 10,81,223 in 2018 and 11,78,096 in 2023.
+According to the projection, population of Noapara Paurashava will be 94,176 in 2023 and that of
+the Study Area 16,52,854 in 2023. Please see Appendix-2.1 for more information.
+Table-2.12: Population Projection by the Current Project
+Area
+KCC Area
+Noapara Area
+Extended Area
+Total
+
+2013
+
+9,87,203
+71,674
+3,06,928
+13,65,805
+
+2018
+
+10,81,223
+81,713
+3,40,897
+15,03,833
+
+Year
+
+2023
+
+11,78,096
+94,176
+3,80,582
+16,52,854
+
+Growth Rate
+1.016
+1.023
+1.0186
+1.0191
+
+Note: The projection is based on the growth rate determined from 1991-2001 Population census.
+
+Population is projected based on the population growth rate of mouzas (1991-2001). Negative
+growth rate is avoided considering growth potential (briefly described in next section) of the project
+area. This has been done through mainly normalization of the negative growth rate of a specific
+mouza using the growth rate of the surrounding mouzas.
+2.8
+
+EXPECTED ECONOMIC GROWTH
+Before making deliberations about future economic growth of the Khulna City, it is better to revisit the statements made by the higher plans that are, Structure Plan and Master Plan of 2001.
+
+2.8.1 Review of Structure Plan
+Structure Plan observed Khulna City serving as the third largest metropolis in the country and the
+largest city of the south-western region. It serves the whole south-western region of the country as
+the focal point of economic and administrative activities. The city provides such services, as,
+•
+•
+•
+•
+•
+
+an inland river port;
+a major commercial centre and market for wholesale and retail products;
+connects rest of the country by railway, road, highways and water way;
+an important industrial town in the south-western region and a major employment provider;
+a centre of higher education with two public few private and a universities a university college
+and a public and a private medical college;
+• as a divisional administrative headquarters, it is the major administrative centre in the region;
+• provides health, banking and other services to its zone of influence.
+Khulna City region traditionally contributed to the national economy through jute manufacturing,
+shipyard and by handling mainly of export goods through Mongla port and shrimp processing
+activities.
+The report estimated the city product (1999) to be Tk. 18.2 billion. The 2001 Structure Plan
+identified lack of investment and slow growth of employment as the main reasons for sluggish
+growth of the Khulna economy. It observed that under the ongoing trend of economic growth, there
+would be little prospect of fast growth of employment which was highly needed for revitalization of
+the local economy. Structure Plan expected that construction of Rupsha Bridge would have
+profound impact on Khulna City both in terms of employment and income. The report expected a
+DDC-DATEX
+
+2-19
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+rise in employment after completion of Rupsha Bridge, development of Export Processing Zone at
+Mongla and installation of gas grid at Bhola.
+The expected employment, however, did not come in the region after the development of Rupsha
+Bridge and development of EPZ at Mongla. Gas from Bhola was not brought to Khulna as it was
+not feasible. However, later on government decided to extend gas line from Khustia up to Khulna
+and much of this line has already been installed. But gas has not yet flown through the pipe as
+there is serious shortage of gas production in the country. This region was already suffering from
+power shortage, which was blamed to be a major reason for slow investment. Gas was the only
+hope of cheap energy which can attract investment in this region. But with the bleak prospect of
+gas supply, new investment in Khulna region has been thrown into uncertainty.
+Structure Plan called for keeping “hard-core” poverty at a lower level through “provision of
+infrastructure facilities, access to health services, and more importantly, employment opportunities
+in several economic sectors including shrimp farming and shrimp processing.” The plan called for
+revival of the jute sector of Khulna region with formulation of appropriate national policy guidelines.
+To promote interest of the have nots in the city, the report called for undertaking special projects
+for the poor with the,
+*
+*
+*
+
+Provision of better access to health, sanitation, water supply, education and other facilities
+in the slum and squatting areas;
+Financial services (savings and loans in need),
+Skill training and new employment opportunities.
+
+NGOs were recommended to play important role in this regard.
+The informal sector was highlighted to provide employment and income opportunities to a
+significant proportion of the urban poor. Development of the informal sector, side by side with the
+formal sector was expected to increase competition, reduce cost, increase efficiency and
+productivity of both the sectors. It called for promoting informal sector by means of,
+*
+*
+*
+*
+*
+*
+*
+
+Innovation and desired improvement through continuous marketing research;
+Provision of marketing facilities;
+Making raw materials available at competitive price;
+Provision of space for establishing microenterprises;
+Skill training;
+Management training;
+Financial services (savings and credit).
+
+NGOs were to play key role in monitoring and coordination with the involvement of relevant
+government departments. But, except some health, sanitation and environmental improvement
+projects, government did not take any effective measure to create new employment for the poor.
+No measure was taken to promote informal sector activities. As a result, income of the large
+section of the urban poor did not increase to raise city’s GDP.
+The report suggested development of backward and forward linkages with other industries in other
+parts of the country (Salt, cotton textile, shrimp) and promote marketing of products efficiently.
+Having Mongla Port and inland river port in Khulna and private cargo handling in Noapara, the
+region was expected to provide excellent transport and trade network to the local economy. To
+
+DDC-DATEX
+
+2-20
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+revive and create a vibrant industrial sector in Khulna in order to generate new employment and
+alleviate poverty, the report called for,
+•
+•
+•
+•
+
+BMRE of existing sick and dying industries;
+Exploitation of local resource endowment;
+Exploitation of existing infrastructural facilities and the scale of economies; and
+Creating labour intensive enterprises.
+
+The report also marked some broad areas for investment in Khulna region, like, dairy products,
+leather, coconut processing, timber processing and timber products, agro-products. It
+recommended introduction and expansion of microcredit to promote investment.
+BMRE was not carried out in many state owned industries that led to fall in production. Some
+industries had to be shut down due to continuous loss. As a result employment got reduced. New
+manufacturing did emerge at expected rate. Investment did not come in most sectors that the
+Structure Plan marked as the feasible areas of investment in this region.
+2.8.2 Review of Master Plan (2nd Tier)
+Regarding economy, 2001 Master Plan made some development proposals in the commercial and
+industrial sectors as reviewed below.
+2.8.2.1
+
+Commercial Development
+
+The plan made recommendations about commercial development that covered development of
+some retail and wholesale markets and development of town centres where there were proposals
+for commercial agglomeration.
+The plan recommended promoting commercial activities through the private sector. It called for
+public sector to play the role of just a facilitator. Locations that have good accessibility and scope
+of public gathering were put on the priority list for commercial development. The plan proposed to
+develop commercial hubs in selected potential areas.
+The plan in total proposed 2557.34 acres land for commercial use (including Town Centres) that
+includes existing commercial areas. It expected commercial developments in areas, like,
+Shiromoni, Phulbari-gate, Gallamari, New-Market-Shibbari area, Aranghata area, Teligati area,
+Noapara, Rupsha and Dighalia area.
+New commercial development proposals in Noapara included a new town centre, a bazaar, and
+extension of existing ribbon commercial development along the arterial road. The proposed town
+centre was expected to play the key role in promoting organized commercial development in that
+area. After construction of Noapara Bypass, the plan expected further growth of commercial
+activities by the existing arterial road. The plan recommended allowing uninterrupted private
+commercial development within the control of building constructions rules and land use zoning.
+In recommending daily bazaar for future city, the plan adopted the standard of 0.30 acre for each
+bazaar. Master Plan recommended 1 bazar for every 50,000 population, and based on projected
+population the plan identified that the future city would need 38 markets. Excluding 29 existing
+bazars, the plan called for development of 9 new bazars in the Master Plan area each having an
+area of 0.30 acre. The plan suggested keeping service road where a commercial area is on the
+major road including highway. The plan also phased out development of proposed bazars.
+DDC-DATEX
+
+2-21
+
+Final Planning Report
+
+2.8.2.2
+
+Chapter 2: Critical Planning Issues
+
+Industrial Sector
+
+Master Plan at the outset reviewed the current industrial development in the Master Plan area
+followed by recommendations for development of the industrial sector. The plan proposed creation
+of favorable investment climate for the industrial sector involving combination of a wide range of
+socio-economic-political measures and new land for accommodating industrial development.
+2.8.2.3 Industries on Private Land
+In view of poor performance by public sector industrial estates, the plan suggested to shift
+government’s role from provider to enabler. It called the Government to provide infrastructure and
+services in potential private land suitable for industrial use to help grow industry. It also asked to
+explore realization of the cost of services from the landowners after the land is sold to the
+industrial entrepreneurs, in proportion to the amount of land sold.
+The plan also designated large areas for industrial agglomeration around the Shipyard at
+Labonchara area and the others at Jabusha, Rupsa, just opposite to Shipyard on the other side of
+the Rupsa River taking opportunity of the excellent waterway and road communication facilities.
+The sites are to be provided with well layout road network, power, water, and solid waste disposal
+facilities. All the areas could have labor supply from nearby low-income areas. Before providing
+services and facilities, the plan asked to prepare Detailed Area Plans for those areas.
+2.8.2.4
+
+Recommendations for Industrial Development
+
+The plan recommended following five measures for creating a favorable industrial investment
+climate in Khulna region,
+•
+
+First, for promotion of local investment provide special tax holiday facilities for designated
+industrial areas within the Master Plan boundary.
+
+•
+
+Second, develop basic infrastructure facilities, particularly for privately owned land earmarked
+as industrial zone.
+
+•
+
+Third, improve transport and communication with the capital city. This would necessitate
+shortening of travel time by road by constructing bridge, improvement of roads and creating
+new road links. The proposed airport was suggested to be commissioned at an earliest
+possible time.
+
+•
+
+Fourth, to create a congenial environment for foreign investors through quickening the
+establishment of export processing zone at Mongla.
+
+•
+
+Fifth, provide encumbrance free credit facilities at reasonable rate of interest.
+
+Proposal for New Industrial Areas
+The plan recommended some areas as future industrial locations. These are, Rupsa Strand Road
+and Labanchoraarea, Ramnagar, Jabusha, Rajapur, Nandanpur-Bhadragati, Mirerdanga,
+Debnagar, Khalishpur, Daulatpur, Atra-Shiromoni, Fultala-Rajghat, Noapara North, Kismat Titak
+and Elaipur, Noapara Central North. As industrial land use, the Master Plan earmarked 2,607.00
+acres of land in the Master Plan area.
+The plan earmarked about 61 acres of land on the northern confluence of the Rupsha-Atharabanki
+River for establishment of noxious industries. The plan also categorized areas for different sizes of
+industries.
+DDC-DATEX
+
+2-22
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+2.8.3 Expected Economic Prospects in Khulna
+The urban areas of Bangladesh hold about 30% of the country’s population but contribute up to
+60% in the national GDP (Choe and Roberts 2011). This situation indicates the immense
+difference of productivity between the urban and the rural areas. This is the main reason why poor
+people from rural areas swarm into large urban centres. They want to take advantage of the more
+productive urban economy for earning their living.
+Urbanization is generally defined as the rate of growth of urban population, however, the nature
+and extent of contribution of urbanization to national development is decided by how a city
+performs economically. Urban areas augment economic progress through economies of
+agglomeration. The prosperity of an urban centre depends on how efficiently the various resources
+offered in urban areas are utilized. Any development in the urban centre and its environs has
+direct implications to the regional economy. In south-western region of the country, Khulna City
+has greater economic, social and administrative importance than any other urban centres in the
+region.
+Khulna is not only the largest urban centre in the south-west region, but also gateway to the
+Mongla Port, the second sea port of the country. But despite all the advantages and facilities, the
+rate of urbanization in Khulna City is showing a declining trend over the years. As the Figure-2.1
+with real and projected data until 2030 shows, the growth of population in Khulna City maintains a
+stagnant rate compared to Dhaka and Chittagong, the two largest urban centres of the country.
+The population census data of 2011 shows that the population of Khulna has reduced by about
+17% compared to the population of 2001. Such trend undermines the role of Khulna City as a
+development focus in the region.
+The nature of expansion of Dhaka City clearly indicates the roles of some driving forces behind,
+that attract large scale immigration into the city. These driving forces are, nothing but the
+proliferation of employment generating manufacturing sector, large market and the advantages
+services and facilities not adequately available in other parts of the country. There is no such
+driving force to attract investment in Khulna leading to large scale immigration. Data shows that
+compared to the other divisions of Bangladesh, urban poverty situation has worsened in Khulna
+Division. The rural migrants are attracted to urban centres for livelihood. But this not happening for
+Khulna City as there is not adequate opportunities for employment in this city that can’t attract
+large scale immigration.
+
+DDC-DATEX
+
+2-23
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+Figure-2.1: Urbanization trend and projections for four Major Cities in Bangladesh
+
+Source: Prepared from Raw Data from Population Division of the Department of Economic and Social Affairs of the United
+Nations Secretariat, World Population Prospects
+
+Table-2.13: Incidence of Poverty in the Divisions of Bangladesh 1995-2000
+(Cost of Basic Need, CBN Method)
+Urban areas
+National
+Dhaka
+Chittagong
+Khulna
+Rajshahi
+
+Upper poverty line (per cent)
+1995–96
+2000
+51
+49.8
+40.2
+44.8
+52.4
+47.7
+55
+51.4
+61.8
+61
+
+Source: BBS 2001, Hossain 2011
+
+Lower poverty line (per cent)
+1995–96
+2000
+34.4
+33.7
+27.8
+32
+28.6
+25
+36.4
+35.4
+46.9
+46.7
+
+The poor migrants prefer Dhaka than Khulna, and so Khulna is declining in respect of
+urbanization. It is evident that the rural migrants bypass Khulna and go to Dhaka to try their luck in
+the job market.
+It is understood that without large scale investment in manufacturing and trade, no prosperity will
+come to Khulna. Discussion with the local Chamber representatives and other professional groups
+reveal that currently they see scarcity of cheap energy as the main hindrance to investment in
+Khulna. Petro-Bangla started a pipeline project to bring gas supply from Kushtia. Substantial
+length of pipeline has already been laid up to the western periphery of the city. But since adequate
+gas is not available at the source the further activities to gas supply has been stopped. And the
+entire project has been plunged into uncertainty. There is no reason to lay pipeline unless
+sufficient gas is guaranteed that can be supplied to this region for a considerable period of time.
+This has cast shadow on the investment climate of Khulna region.
+Another important investment in Khulna is being made by Bangladesh Western Railway by
+extending the railway line from Khulna up to Mongla to link the sea port. The project is funded by
+Indian government. This new line will connect Mongla Port with the national railway network.
+However, the primary aim of the new connectivity is to enable Nepal, and Bhutan and also India to
+
+DDC-DATEX
+
+2-24
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+use the seaport and perform their imports and exports through across Indian Territory. The port
+may be used as an additional gateway by India for its exports and import related activities.
+All exports and imports will just pass through Bangladeshi territory. This will have no impact on
+local economy in generating employment. The benefit will be accrued directly to Mongla Port as it
+will be earning export and import duties plus cargo handling charges. There may be some
+engagement of local transport companies. However, only if such trading activities attract
+investment from trading countries in the Mongla EPZ or elsewhere in the region, then there is a
+possibility of some employment generation and growth of backward and forward linkage industries.
+But will such investment at all take place? If yes, when and how much? So things are very much
+uncertain till now.
+Bangladesh Power Development Board (PDB) has initiated a process to install six coal-fired power
+plants through private entrepreneurs to produce 1320 MW of electricity (Bangladesh Economy, 11
+April 2011). Of the six plants, proposed to be built, two will be at Khulna and two at Mongla.
+Among the two power plants at Mongla, one with a capacity of 1320 MW is to be financed by India.
+All these power plants will help increasing the current power supply capacity. This will act
+positively to attract investment in Mongla EPZ and in Khulna region.
+It is often argued that development of Padma Bridge will open up new avenues of prosperity to this
+region. But how? There is no doubt that Padma Bridge it will have impact on passenger and goods
+transportation. This will promote trading activities as well. Industrial products produced in the
+eastern part of the country can be easily marketed in this region. However, the profit will be back
+to the entrepreneurs living there. New employments will be generated in the industries located in
+the eastern part of the country. Investment will hardly come to Khulna region until there is
+adequate power and cheap energy supply.
+There is no doubt that there will be some positive impacts of Padma Bridge on urbanization of
+Khulna. Urban amenities are a major source of attracting investment. Khulna has all urban
+amenities with its better education facilities, medical services, shopping facilities, good
+infrastructure and physical environment and above all comparatively cheaper land. All these
+amenities might attract investors who would find it convenient to produce here and capture the
+regional market and also the eastern market taking advantage of the Padma Bridge. Even if
+investments are made at Noapara or Mongla, the initial benefits will be accrued to Khulna because
+of its better urban amenities.
+The current investment climate in Khulna and its environs is not worthy enough to draw investors
+on a large scale and so the migrants. Therefore, new and explorative avenues must be searched
+to create a sound ground for drawing investors here. Before drawing up any plan for future course
+of action, there is need to research finding answers to some basic questions, as follows,
+•
+
+Why lands in BCISIC and KDA industrial estates are lying idle and why new industries are
+coming up around the sites?
+
+•
+
+Why investors rush to Dhaka and not to Khulna?
+
+•
+
+What facilities and services will be able to attract investors in this region?
+
+Only answers to these questions can lead to appropriate policy measures and execution of which
+can create positive investment climate here. Without having any investment prospect, the
+DDC-DATEX
+
+2-25
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+employment in the city will not rise and without having employment opportunity the scope of
+migration will remain bleak. And if the population continues to dwindle than all the investment in
+development of infrastructure will go in vein, as they will remain either under-utilized or unutilized.
+If cheap energy is the biggest question then government may take measures to compensate the
+extra cost increase caused by higher cost of energy. This compensation may be in the form of tax
+reduction or tax holiday, lower interest rate for industrial credit. Once investment in the industrial
+sector starts pouring, investment in the service sector will automatically follow. Trading enterprises
+will emerge, backward and forward linkage industries will spring up. Rise in population will lead to
+growth of social service facilities, in education and health sectors, expansion of utility services, and
+rise in demand for land and housing, rise in retail business. Thus the urban economic multiplier will
+start its operation through more and more employment bringing gradual prosperity to the city. But
+everything will depend on the political decision of setting the ground for investment. It is the
+responsibility of the government to set the ground for investment and it is the private entrepreneurs
+to make investment using the opportunities provided.
+2.9
+
+PROBLEMS OF CRITICAL NATURE
+Khulna City and its environs, that comprise the project area, suffer from a number of problems
+which create obstacles towards its prosperity. If these problems can be handled with judicious
+manner, the city can attain its desired level of proliferation and prosperity. Following are the key
+critical problems of the project area.
+
+2.9.1 Sluggish Growth of the Local Economy
+Khulna City is the most prominent part of the project area that forms about ¼ th of the study area
+and accommodates about 62% of the population. It is economically the most vibrant part of the
+project area. The city had a glorious economic past in the 50s and 60s, when it stood as a major
+industrial hub employing a large number of workers in its jute, hard board, newsprint and other
+industrial concerns. Almost all these industries were nationalized following liberation in 1971. Most
+of these industries were subsequently closed down in the face of continuous loss caused by missmanagement and corruption. No effective step could be evolved by the government to manage
+them profitably. As a result, large number of workers lost their jobs. Backward and forward linkage
+enterprises that used to do business with them were closed down causing loss of jobs by
+thousands. Since independence private sector investment did not come adequately in the
+commerce and industry at the expected rate mainly due to lack of adequate energy and other
+support services and good connectivity with Dhaka and Chittagong Port. As the basic sector
+investment was slow in the city, resultant growth of non-basic sector also did not grow. The city
+lagged behind economic prosperity which still continues.
+2.9.2 Lack of Power and Gas
+Like elsewhere in the country, lack of adequate electric power and gas are the two major elements
+which retard investment in this city. Cheap natural gas helps keep cost of production low. But it
+has not been possible to supply gas in this region. On the other hand, electricity supply is not
+regular and also costly. As a result, potential investors are not encouraged to invest here.
+Government is executing a project to bring gas from Kushtia. Gas line has already been brought to
+the city periphery from Kushtia. But when the supply will begin is still uncertain.
+DDC-DATEX
+
+2-26
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+2.9.3 Drainage Problem
+In the urbanized part of the project area, almost all natural canals and water bodies have either
+been filled up or severely encroached rendering them as narrow drains. Most of these areas are
+above RL 3m PWD. Many of them are being silted up and dying. Encroachment of water bodies
+and retention basins and their reduced capacity is causing long-lasting flood in many inland areas.
+Almost all surface drains are subject to public waste disposal. The result is blockage of the drains
+and water-logging. The situation becomes severe during monsoon when the drains have to
+transport execess rain water apart from regular waste water. It becomes a regular task of the City
+Corporation to clean the drains before monsoon sets in. The situation is expected to aggravate
+further when population rises and the volume of household waste water increases.
+Rivers around Khulna City are subject to tide. The low tide water level has been found (-) 0.92 m
+at Rupsha. The high tide water level has been found (+) 3.75 m for the same area (Source:
+BWDB, Khulna, 2013). Study shows, only about 25% of KCC area may have continuous gravity
+drainage. The area between 2.4m PWD and 3m PWD may have partial gravity drainage during
+low tide. Rest of the city area needs continuous pump drainage during monsoon. During high tide
+the rivers swell and the tidal water penetrate into the canals and drains through inlets. This
+situation blocks flow of water into the river and raises water level in the canals and drains leading
+to temporary water-logging in local areas. The situation becomes more critical during monsoon
+when water in the rivers rises further. To get rid of this situation at many out let points sluice gates
+and regulators were built by BWDB. But they are not functioning effectively due to lack of regular
+maintenance. In the past, all drainage structures were built on piecemeal basis. As a result no
+integrated drainage system developed in the city.
+Apart from irregular maintenance, many drains are damaged, walls are yielded. There are also
+design problems that affect proper drainage. Covering slabs are not there on many drains that
+allow waste dumping by the public. Poor construction causes early damage of many slabs. Some
+drains are too narrow to carry enough water generated by the catchment area.
+KCC Drainage Master Plan 2011 has identified that most wards of KCC has inadequate drainage
+network which is one of the reasons for water-logging in many parts of the city. In some wards,
+there are no paved drains for effective draining of water.
+Noapara has in total 258.65 km of drains which is inadequate for the Paurashava. A larger part of
+(82.44%) the drains is katcha, causing distructive flow of drainage water during monsoon. During
+heavy rains, storm water cannot move quickly through the drains resulting in flash flood at many
+points. Primary drainage facility is provided by the natural khals about 2.50 km in length but these
+are again under the threat of encroachment in many areas.
+2.9.4 Slow Infrastructure Development in the Fringe
+Most farm lands in the fringe areas of Khulna City are already sold to the potential builders. But
+investment is not forthcoming in these areas largely due to absence of infrastructure, particularly,
+road network. Despite preparation of Khulna Master 2001 where infrastructures were proposed in
+the fringe, necessary steps to implement those were not initiated. As a result, potential developers
+having lands in the city periphery are unable to make investment in their lands. New developments
+in the fringe can enrich local economy through activities in the construction sector by generating
+DDC-DATEX
+
+2-27
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+new employment. It can increase business in building materials. New investment in the housing
+sector can also add to housing supply and commercial development.
+2.9.5 Unplanned Development
+In absence of planned infrastructure and overall spatial planning newly urbanizing areas are
+developing in an unplanned way devoid of standard infrastructure and services. These areas lack
+adequate and standard roads, open space and many other community services and compatible
+lands uses. Such areas pose as problem areas for future habitation.
+2.9.6 Encroachment and Grabbing of Natural Canals
+Due to encroachment, long and wide canals of the city have turned into narrow drains. Many
+natural canals have just disappeared from the city landscape due to illegal grabbing. This is
+causing serious water-logging problems in city, particularly, during monsoon when there is heavy
+rainfall and water cannot be drained out quickly.
+Mayur Rakkha Committee (a voluntary citizens committee to save the Mayur River) in its report in
+2010, identified 49 khals in the city and its periphery that have been subject to full or partly filled
+up. Many khals have been turned into roads by the local government body. Due to encroachment,
+long and wide canals of the city have turned into narrow drains. Many natural canals have just
+disappeared from the city landscape due to illegal grabbing. This is causing serious water-logging
+problems in city, particularly, during monsoon when there is heavy rainfall and water cannot be
+drained out quickly. A list of khals with their present condition has been added as Appendix-2.4.
+2.10
+
+CURRENT INVESTMENT PROJECTS OF SELECTED PUBLIC SECTOR AGENCIES
+There are as many as 33 public sector agencies in Khulna City who are engaged in delivering
+various services to the urban dwellers. They undertake development projects of different kinds to
+promote welfare of the city dwellers. In the following section the current investment projects of
+selected public sector agencies have been described.
+
+2.10.1 Review of KCC Projects
+KCC is mainly responsible for providing civic services to the citizens. These services are very
+essential for descent and comfortable urban living. Road is one of the most important urban
+services that affects everyday life of the people. This is a routine responsibility of any urban local
+government to maintain roads. But most local governments fail to do so regularly for lack of fund.
+While the local governments are unable to realize provide fund to pay for maintenance expenses,
+government fund is also scarce is supply. Road improvement projects of KCC will benefit the local
+people in better living. Creation of new education and health facilities will benefit people improving
+their living standard.
+Kitchen markets in the city have not been developed based on demand. As a result, when density
+of population increases leading to increased need for bazars, shops of daily necessities crop up
+almost anywhere in the city streets. The new shopping centre or markets will meet the growing
+needs of the citizens. To save the city from environmental degradation and keep it clean, waste
+management is a vital issue. Construction of landfill sites and development of new transfer stations
+DDC-DATEX
+
+2-28
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+will help manage solid waste efficiently. But there is absence of proper management of clinical
+waste by KCC.
+Construction of a hygienic slaughter house will enable people to have healthy meat. KCC has
+rightly undertaken drainage improvement projects. Securing of natural canals and improvement of
+present dilapidated drainage network is highly needed to save the city from water-logging and
+drainage congestion. Community toilets are extremely scarce in the city; new community toilet will
+meet some of the demand. Many of the above projects have already been completed. Others are
+ongoing. KCC is also expecting to receive Tk. 300 core to recover and re-excavate selected
+natural canals in the city and its periphery to allow smooth flow of drainage water.
+Table-2.14: Khulna City Corporation (Relevant Important Projects only)
+
+Development Project Title
+150 km road development in 31
+Wards of KCC.
+Construction of Daulatpur
+Collegiate College.
+Building
+construction
+for
+Khlishpur and Tutpara Maternity
+Hospitals
+Construction of Khulna Public
+Hall
+Rupsha
+Kitchen
+Market
+Construction
+Purchase of transport and
+logistics for KCC waste
+management department.
+Improvement of flood affected
+infrastructure in Khulna City.
+Development
+of
+Physical
+Infrastructure, Drainage and
+water Supply System
+Improvement of some main
+road and improvement and
+extension of footpath.
+
+Project Description
+Better Cost (Tk.)
+Source of Fund
+Improvement of damaged 148 crore
+These are only some
+roads.
+of the important
+being
+New College
+9 crore and 9 lakh projects
+implemented with the
+Prime Ministers’ Tk.
+Two
+new
+building 4 crore and 27
+200 crore special
+construction
+lakh
+development
+allocations for KCC.
+New 20 storied building.
+24 crore and 65
+lakh
+New Kitchen market
+4 crore and 41
+lakh
+Waste carrying vehicle, 31 crore and 94
+GoB ADP allocation.
+other equipment.
+lakh
+
+Survey to Mitigation waterlogging in Khulna City.
+
+1 crore and 30 GoB ADP allocation.
+lakh
+
+Sanitary Landfill Project
+Development of Linear Park on
+the Mayur River
+a. Development of Sanitary
+Landfill Site,
+b. Development of Slaughter
+House
+c. Construction of 9 transfer
+Stations.
+Development of 6 Community
+Toilets.
+DDC-DATEX
+
+Repair of road, culvert,
+bunds etc.
+Repair and improvement of
+road, drain and water
+supply system.
+Repair and improvement of
+selected main roads and
+extension
+and
+improvement of selected
+footpath.
+Consultancy work for
+preparation of a drainage
+Master Plan for Khulna
+City.
+Sanitary
+landfill
+site
+development at Shalua.
+A riverside park in the
+extended area of KCC.
+Landfill
+site
+at
+Mathabhanga
+Mouza,
+slaughter
+house
+at
+Gallamari and 9 transfer
+stations at different parts of
+KCC area.
+Located
+at
+near
+Bangladesh Bank, near
+
+8 crore and 20
+lakh
+49 crore and 82
+lakh
+
+GoB ADP allocation.
+
+74 crore and 20
+lakh
+
+GoB ADP allocation.
+
+5 crore and 17
+lakh 22 thousand
+22 crore and 84
+lakh.
+20 crore and 80
+lakh
+
+-
+
+GoB ADP allocation.
+
+GoB ADP allocation.
+GoB ADP allocation.
+Urban Public and
+Environmental
+Health
+Sector
+Development project.
+Urban
+Primary
+Healthcare project
+2-29
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+Development Project Title
+
+Project Description
+Khulna Rail Station, Jora
+Gate Anumal Hat, near
+Natun Rastar More, near
+BL College and near Truck
+Terminal.
+Four Food Courts at Public KCC Super Market, Public
+Gathering Places in the city.
+Hall, Gate of BL College
+and Rupsha Ghat area.
+Development
+of
+four Mistri
+Para,
+Boikali,
+Environment Friendly Healthy Khalishpur New Market,
+Markets.
+And Rupsha Wholsale
+Katcha Bazar.
+
+Better Cost (Tk.)
+
+Source of Fund
+
+-
+
+-
+
+-
+
+-
+
+Source: Khulna City Corporation, 2013.
+
+2.10.2 Review of KDA Projects
+KDA is implementing two vital roads connecting the City with the City Bypass. One project is
+implemented on the northern part of the city, while the other on the southern part. The 1.12 km
+Teligati to City Bypass will link Fulbari Gate and surrounding areas including the Jessore-Khulna
+Road with the City Bypass. Vehicles from the north can now easily go southward avoiding the
+busy city areas. The second road has already been developed. It connects Majid Sarani and MA
+Bari Road with the City Bypass. This road will help the buses moving from Sonadanga to avoid
+busy Gallamari intersection. The road will open up the undeveloped areas on the north of Khulna
+University, where KDA is implementing a new housing project. This will be a 2.06 km road. Details
+of KDA development projects are shown in Table-2.15.
+Table-2.15: Projects of Khulna Development Authority (KDA)
+
+Development
+Project Title
+Ongoing Project
+1. Development of
+two roads
+connecting KhulnaJessore Road with
+City Bypass.
+a. Teligati to City
+Bypass (1.12 km).
+b. M.A. Bari Road to
+City Bypass (2.06
+km).
+2. Detailed Area
+Development Plan
+for Khulna Master
+Plan (2001) Area
+
+3. Construction of
+KDA
+Extension
+Building
+4. Construction of
+Commercial
+Complex in Nirala
+DDC-DATEX
+
+Estimated Cost
+(Lakh)
+
+Source of
+Fund
+
+With a view to open
+up the western
+undeveloped areas
+for expansion of the
+city these two new
+roads are being
+developed.
+
+4,294.04 lakh
+
+GoB
+
+Land acquisition completed.
+Road development going on.
+
+This is a Detailed
+Area Planning
+project being
+implemented over an
+area of about 181.31
+sq.km of the Master
+Plan (2001) area.
+A new building will
+be developed within
+KDA premises.
+Facilitate
+commercial facilities
+to Nirala RA and the
+
+6,09.41 lakh
+
+GoB
+
+Likely to be completed by
+June, 2013.
+
+1,050.70 lakh
+
+KDA
+
+504.10
+
+KDA
+
+Project Description
+
+Remark
+
+2-30
+
+Final Planning Report
+
+Development
+Project Title
+Residential Area
+5. Reconstruction of
+KDA New Market.
+6.
+Ahsanabad
+Housing
+Area
+Development.
+
+7. Widening and
+Development
+of
+Khulna
+Shipyard
+Road.
+
+Project Description
+people living in the
+southern part of the
+city.
+Development of new
+building
+replacing
+the existing worn out
+building.
+Development of a
+site and service
+residential project for
+people in general to
+meet the demand for
+serviced land.
+This already existing
+road will be widened
+and improved to
+ease movement of
+traffic from southeastern part of the
+city to the City
+Bypass.
+
+Chapter 2: Critical Planning Issues
+
+Estimated Cost
+(Lakh)
+
+Source of
+Fund
+
+114.00
+
+KDA
+
+12,511.02
+
+KDA
+
+10,359.57
+
+GoB
+
+Remark
+
+Being reviewed by
+approval authorities.
+
+the
+
+Projects Sent for Government Approval (Relevant Important Projects only)
+1. Overpass Over
+Fulbari
+Rail
+Crossing.
+2. Development of
+Road from Barakpur
+to Chandnimahal.
+
+-
+
+15,363.30
+
+GoB
+
+Being reviewed by
+approval authorities
+
+the
+
+Road
+network
+development on the
+eastern side of the
+Bhairab-Rupsha
+River.
+3. Construction of This Bypass will
+20.50 km Noapara make
+movement
+Bypass
+between JessoreKhulna easier. The
+existing road will
+become an arterial
+road for Noapara,
+promoting
+local
+business.
+4. Construction of A
+recreational
+KDA Water World.
+project on PWD land
+at Raligate.
+5. Construction of
+Sheikh Rassel Civic
+Centre
+6. Improvement of Road improvement
+Roads in Shiromoni will ease internal
+Industrial Area
+movement in the
+industrial estate.
+
+23,211.10
+
+GoB
+
+Being reviewed by
+approval authorities
+
+the
+
+30,227.28
+
+KDA
+
+Sent to the ministry for
+approval
+
+735.05
+
+KDA
+
+Sent to the ministry for
+approval
+
+10,360.075
+
+KDA
+
+Sent to the ministry for
+approval
+
+1,653.84
+
+KDA
+
+Sent to the ministry for
+approval
+
+DDC-DATEX
+
+2-31
+
+Final Planning Report
+
+Development
+Project Title
+7. Construction of 6
+Storied
+Housing
+Complex
+for
+Distressed Women
+8. Feasibility Study
+for Development of
+Industrial Estate in
+the East of the
+Rupsha River
+
+Project Description
+For sheltering and
+rehabilitation
+of
+distressed women
+Industrialization and
+employment
+generation in the
+undeveloped eastern
+part of KDA area.
+
+Chapter 2: Critical Planning Issues
+
+Estimated Cost
+(Lakh)
+272.63
+
+Source of
+Fund
+KDA
+
+196.40
+
+KDA
+
+Remark
+Sent to the ministry for
+approval
+Sent to the ministry for
+approval
+
+Future Projects
+01. Construction of Sundarban Watch Tower
+02. Construction of Ring Road at Mongla
+03. Construction of Marine Driveway
+04. Construction of Bus Terminal at Noapara
+05. Construction of Hostel for Working Women
+06. Development of Park at Noapara
+07. Housing Development at Noapara
+08. Construction of gate at Master Plan entry points
+09. Housing Development for Expatriate Bangladeshis
+10. Housing Development at Harintana
+Source: Khulna Development Authority, 2012.
+
+DDC-DATEX
+
+2-32
+
+Final Planning Report
+
+Chapter 2: Critical Planning Issues
+
+Map-2.3: Location of On Going and Proposed Development Projects of Public Sector agencies
+
+DDC-DATEX
+
+2-33
+
+
